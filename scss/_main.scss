@@ -1,0 +1,19 @@
+// Main Design
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  // background: #f0f0f0;
+  // grid-row: 1;
+  // grid-column: span 4;
+
+  h2 {
+    margin-bottom: 10px;
+  }
+}
+
+// Main Links
+a {
+  color: $links;
+  text-decoration: none;
+}

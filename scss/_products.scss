@@ -1,0 +1,65 @@
+.main-product-title {
+  margin-bottom: 1.4rem;
+}
+
+// Products Container
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-rows: repeat(auto-fill, auto);
+  // grid-template-rows: 5em 14em 14em 1fr 4em;
+  grid-gap: 15px;
+  background: white;
+  margin: 0px 0px 10px 0px;
+
+  // grid-column: 1 / span 4;
+  // grid-row: 4;
+
+  // display: grid;
+  // grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
+  // grid-template-rows: repeat(auto-fill, auto);
+  // gap: 0.8rem;
+}
+
+.card-item {
+  background: white;
+}
+
+.product {
+  border: 1px solid rgb(190, 186, 186);
+  height: auto;
+}
+
+.product-container {
+  a {
+    text-decoration: none;
+  }
+
+  // Imagen del producto
+  .product-img {
+    @include image;
+    @include flexCenter;
+  }
+
+  // Div del logo amazon prime
+  .amazon-prime {
+    margin: 10px auto;
+    padding-left: 1rem;
+  }
+
+  // Logo amazon prime
+  .product-amazon-prime {
+    position: relative;
+  }
+
+  // Link del producto
+  .product-link {
+    @include buyButton;
+  }
+  height: 100%;
+}
+// Titulo del producto
+.product-title {
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
