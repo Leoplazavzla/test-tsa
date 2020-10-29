@@ -10,9 +10,9 @@
             <!---------------------------------------- HEADER --------------------------------------------->
             <?php include ('../includes/header.php'); ?>
 
-            <main>
+            <main class="analysis-main">
 
-            <h1>Batidora de mano profesional Moulinex Quickchef 1000W</h1>
+            <h1 class="analysis-title">Batidora de mano profesional Moulinex Quickchef 1000W</h1>
 
             <!---------------------------------------- Image --------------------------------------------->
             <div class="highlighted-img">
@@ -36,77 +36,78 @@
       
       </section>
       <!---------------------------------------- First grid products images (missing) --------------------------------------------->
-      <div class="analysis-gallery">
-            <article>
-                  <div class="gallery-img-item">
-                        <div class="analysis-item-container">
+      <section class="analysis-grid">
+            <div class="analysis-gallery">
+                  <article>
+                        <div class="gallery-img-item">
+                              <div class="analysis-item-container">
 
-                        <a href="/template_tsa/img/reviews/moulinex-quickchef/moulinex3.jpg">
-                        <img
-                        src="/template_tsa/img/reviews/moulinex-quickchef/moulinex3.jpg"
-                        alt=""
-                        class="analysis-gallery-img"
-                        /></a>
+                              <a href="https://amzn.to/35B2cG7">
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/accesorios-batidora-de-mano-moulinex-quickchef.jpg"
+                              alt="foto de accesorios de batidora moulinex quickchef barata"
+                              class="analysis-gallery-img"
+                              /></a>
+                              </div>
+                  </article>
+
+                  <article>
+                        <div class="gallery-img-item">
+                              <div class="analysis-item-container">
+
+                              <a href="https://amzn.to/35B2cG7"> 
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/comprar-batidora-moulinex-quickchef-1000w.jpg"
+                              alt="foto presentacion de batidora moulinex en rebaja"
+                              class="analysis-gallery-img"
+                              /></a>
+                              </div>
+                  </article>
+
+                  <article>
+                        <div class="gallery-img-item">
+                              <div class="analysis-item-container">
+
+                              <a href="https://amzn.to/35B2cG7"> 
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-barata.jpg"
+                              alt="foto de batidora moulinex quickchef barata"
+                              class="analysis-gallery-img"
+                              /></a>
+                              </div>
+                  </article>
+
+                  <article>
+                        <div class="gallery-img-item">
+                              <div class="analysis-item-container">
+
+                              <a href="https://amzn.to/35B2cG7"> 
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/agarre-batidora-moulinex-quickchef-1000w.jpg"
+                              alt="foto-del-agarre-de-la-batidora-moulinex-quickchef-1000w"
+                              class="analysis-gallery-img"
+                              /></a>
+                              </div>
+                  </article>
+
+                  <article>
+                        <div class="gallery-img-item">
+                              <div class="analysis-item-container">
+
+                              <a href="https://amzn.to/35B2cG7"> 
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-de-vaso-moulinex-quickchef-en-oferta.jpg"
+                              alt="foto del vaso de la batidora moulinex quickchef 1000w"
+                              class="analysis-gallery-img"
+                              /></a>
+                              </div>
+                  </article>
+                  
+
                         </div>
-            </article>
-
-            <article>
-                  <div class="gallery-img-item">
-                        <div class="analysis-item-container">
-
-                        <a href=""> 
-                        <img
-                        src="/template_tsa/img/reviews/moulinex-quickchef/moulinex1.jpg"
-                        alt=""
-                        class="analysis-gallery-img"
-                        /></a>
-                        </div>
-            </article>
-
-            <article>
-                  <div class="gallery-img-item">
-                        <div class="analysis-item-container">
-
-                        <a href=""> 
-                        <img
-                        src="/template_tsa/img/reviews/moulinex-quickchef/moulinex3.jpg"
-                        alt=""
-                        class="analysis-gallery-img"
-                        /></a>
-                        </div>
-            </article>
-
-            <article>
-                  <div class="gallery-img-item">
-                        <div class="analysis-item-container">
-
-                        <a href=""> 
-                        <img
-                        src="/template_tsa/img/reviews/moulinex-quickchef/moulinex3.jpg"
-                        alt=""
-                        class="analysis-gallery-img"
-                        /></a>
-                        </div>
-            </article>
-
-            <article>
-                  <div class="gallery-img-item">
-                        <div class="analysis-item-container">
-
-                        <a href=""> 
-                        <img
-                        src="/template_tsa/img/reviews/moulinex-quickchef/moulinex3.jpg"
-                        alt=""
-                        class="analysis-gallery-img"
-                        /></a>
-                        </div>
-            </article>
-            
-
-                  </div>
       
 
-      <section class="analysis-grid">
+      
       
       </section>
 
@@ -134,6 +135,11 @@
             </article>
 
       </section>
+
+      <!---------------------------------------- Product Offer --------------------------------------------->
+
+
+
       <!---------------------------------------- Functionalities --------------------------------------------->
       <section>
             <article>

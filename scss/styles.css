@@ -313,11 +313,34 @@ footer {
   background: grey;
 }
 
+.analysis-title {
+  text-align: center;
+  margin: 2.5rem 0px;
+}
+
+.analysis-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.analysis-img img {
+  margin: 1.5rem auto;
+  width: 50%;
+  height: auto;
+}
+
 .analysis-gallery {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(100px, 1fr))[auto-fit];
-      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  -ms-grid-columns: (minmax(150px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   -ms-grid-rows: (auto)[auto-fill];
       grid-template-rows: repeat(auto-fill, auto);
   gap: 0.8rem;

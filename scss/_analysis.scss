@@ -1,7 +1,24 @@
+.analysis-title {
+  text-align: center;
+  margin: 2.5rem 0px;
+}
+
+.analysis-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    margin: 1.5rem auto;
+    width: 50%;
+    height: auto;
+  }
+}
+
 .analysis-gallery {
   display: grid;
   // grid-template-columns: repeat(4, 1fr);
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   grid-template-rows: repeat(auto-fill, auto);
   gap: 0.8rem;
   color: white;
