@@ -89,7 +89,7 @@
 
                 <!-- Fourth product -->
 
-                <article class="card-item" id="card-item">
+        <article class="card-item" id="card-item">
           <div class="product">
             <div class="product-container">
 

@@ -48,7 +48,7 @@
                               alt="foto de accesorios de batidora moulinex quickchef barata"
                               class="analysis-gallery-img"
                               /></a>
-                              </div>
+                        </div>
                   </article>
 
                   <article>
@@ -61,7 +61,7 @@
                               alt="foto presentacion de batidora moulinex en rebaja"
                               class="analysis-gallery-img"
                               /></a>
-                              </div>
+                        </div>
                   </article>
 
                   <article>
@@ -74,7 +74,7 @@
                               alt="foto de batidora moulinex quickchef barata"
                               class="analysis-gallery-img"
                               /></a>
-                              </div>
+                        </div>
                   </article>
 
                   <article>
@@ -87,7 +87,7 @@
                               alt="foto-del-agarre-de-la-batidora-moulinex-quickchef-1000w"
                               class="analysis-gallery-img"
                               /></a>
-                              </div>
+                        </div>
                   </article>
 
                   <article>
@@ -100,16 +100,11 @@
                               alt="foto del vaso de la batidora moulinex quickchef 1000w"
                               class="analysis-gallery-img"
                               /></a>
-                              </div>
+                        </div>
                   </article>
                   
-
-                        </div>
-      
-
-      
-      
-      </section>
+            </div>
+       </section>
 
 
       <!---------------------------------------- Charasteristics --------------------------------------------->
@@ -138,7 +133,31 @@
 
       <!---------------------------------------- Product Offer --------------------------------------------->
 
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+            <div class="product-horizontal-container">
+                  <div class="product-horizontal-img">
 
+                        <a href="https://amzn.to/2HC8U6y"> 
+                          <img
+                          src="/template_tsa/img/batidora-de-vaso-portatil-wmf-kult-x-mix.jpg"
+                          alt=""
+                          class="product-horizontal-img"
+                          /></a>
+                  </div>
+                <div class="product-horizontal-title">
+                  <a href="https://amzn.to/2HC8U6y"><h3 class="card-horizontal-title">Batidora de vaso portatil WMF Kult X Mix - 300W</h3></a>
+                </div>
+                <div class="product-horizontal-amazon-prime">
+                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="horizontal-amazon-prime" alt=""></a>
+                </div>
+                <div class="horizontal-amazon-link">
+                  <a href="https://amzn.to/2HC8U6y" class="product-horizontal-link">Comprar en Amazon</a>
+                </div>
+              </div>
+          </div>
+        
+        </article>
 
       <!---------------------------------------- Functionalities --------------------------------------------->
       <section>

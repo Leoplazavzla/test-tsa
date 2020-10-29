@@ -6,7 +6,7 @@
   align-items: center;
 }
 
-// Image inside the product item
+// Image inside the product item vertical
 
 @mixin image {
   max-width: 100%;
@@ -19,6 +19,24 @@
 
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+// Image inside the product item horizontal way
+
+@mixin imageHorizontal {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto 0 0 0;
+  padding: 3rem 3rem 0 3rem;
+
+  background-color: transparent;
+  box-shadow: none;
+  opacity: 1;
+  object-fit: cover;
+
+  display: flex;
+  justify-content: left;
   align-items: center;
 }
 

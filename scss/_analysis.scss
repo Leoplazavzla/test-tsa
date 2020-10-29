@@ -1,8 +1,9 @@
+// Title
 .analysis-title {
   text-align: center;
   margin: 2.5rem 0px;
 }
-
+// main image
 .analysis-img {
   display: flex;
   justify-content: center;
@@ -15,6 +16,7 @@
   }
 }
 
+// Image Gallery
 .analysis-gallery {
   display: grid;
   // grid-template-columns: repeat(4, 1fr);
@@ -25,11 +27,6 @@
 
   margin: 2rem 0px;
 }
-
-// .gallery-img-item {
-//   border: 1px solid rgb(190, 186, 186);
-//   height: auto;
-// }
 
 .analysis-item-container {
   .analysis-gallery-img {
@@ -45,4 +42,20 @@
     justify-content: center;
     align-items: center;
   }
+}
+
+// Product card horizontal way
+.horizontal-item {
+  border: 1px solid rgb(190, 186, 186);
+  height: auto;
+}
+
+.product-horizontal-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(auto-fill, auto);
+}
+
+.product-horizontal-img {
+  @include imageHorizontal;
 }
