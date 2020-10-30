@@ -59,3 +59,12 @@
 .product-horizontal-img {
   @include imageHorizontal;
 }
+
+.product-link-horizontal {
+  @include buyButton;
+}
+
+.product-title-horizontal {
+  margin-bottom: 1.5rem;
+  background: white;
+}

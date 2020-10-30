@@ -5,7 +5,7 @@
       <article class="an-item" id="card-item">
           <div class="an-wrapper">
 
-            <a href="#"><img
+            <a href="../template_tsa/moulinex/batidora-moulinex-quickchef-gran-relacion-calidad-precio.php"><img
             src="../template_tsa/img/batidora-de-mano-moulinex-quickchef-DD655.jpg"
             alt=""
             class="card-img"

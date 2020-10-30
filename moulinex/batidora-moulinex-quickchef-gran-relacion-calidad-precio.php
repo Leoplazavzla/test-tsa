@@ -135,6 +135,76 @@
 
       <article class="horizontal-item">
           <div class="product-horizontal">
+                  <table id="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                              <img
+                              src="/template_tsa/img/batidora-de-vaso-portatil-wmf-kult-x-mix.jpg"
+                              alt=""
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table id="column1">
+                                    <tbody">
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="analysis-list">
+                                                <li>Tiene una potencia de 1000W (watts)</li>
+                                                <li>Velocidad ajustable</li>
+                                                <li>Piezas aptas para el lavavajillas</li>
+                                                <li>Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>Mango suave y antideslizante</li>
+                                                <li>Pie desmontable (acero inoxidable)</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
+                              
+                              <td>
+                              <table id="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+      
+
+
+
+
+
+
+
+
+
+      <article class="horizontal-item">
+          <div class="product-horizontal">
             <div class="product-horizontal-container">
                   <div class="product-horizontal-img">
 
