@@ -1,0 +1,41 @@
+%list-style {
+  list-style: none;
+  text-decoration: none;
+  line-height: 1.5rem;
+  padding-left: 2rem;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+%p-style {
+  line-height: 1.5rem;
+  font-size: 1.125rem;
+  margin-bottom: 0.7rem;
+}
+
+h1 {
+  @include margin-bottom(1rem);
+}
+
+h2 {
+  @include margin-bottom(2rem);
+}
+
+h3 {
+  @include margin-bottom(2rem);
+}
+
+h4 {
+}
+
+.analysis-parrafo {
+  @include margin-bottom(1.5rem);
+  @extend %p-style;
+}
+
+ul {
+}
+
+li {
+  @extend %list-style;
+}

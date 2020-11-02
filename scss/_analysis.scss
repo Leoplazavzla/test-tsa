@@ -44,7 +44,14 @@
   }
 }
 
-// Product card horizontal way
+// Estilos del video
+
+.analysis-video {
+  @include flexCenter;
+  margin: 1.5rem 0px;
+}
+
+// Product card horizontal way (This is the horizontal product )
 .horizontal-item {
   margin: 2rem 2rem;
   border: 1px solid rgb(190, 186, 186);
@@ -61,22 +68,30 @@
 }
 
 .product-title-horizontal {
-  margin-bottom: 1.5rem;
+  margin: 1rem auto;
   background: white;
 }
 
-.product-analysis-list {
+.column1 .product-analysis-list {
   list-style: none;
-  margin: 0px auto;
+  line-height: 1rem;
+  margin-bottom: 1rem;
 }
 
 .column1,
 .column2 {
   display: inline-block;
-  margin-left: 3rem;
+  margin-left: 2rem;
+}
+
+.analysis-banner {
+  @include flexCenter;
+  margin: 1rem auto;
 }
 
 // MEDIA QUERIES
+
+// Media query for the horizontal product
 
 @media screen and (max-width: 768px) {
   .tabla {
@@ -113,5 +128,9 @@
   .column2 {
     position: relative;
     margin: 10px auto;
+  }
+
+  li {
+    line-height: 1rem;
   }
 }
