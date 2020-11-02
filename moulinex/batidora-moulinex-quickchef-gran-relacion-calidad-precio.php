@@ -135,7 +135,7 @@
 
       <article class="horizontal-item">
           <div class="product-horizontal">
-                  <table id="tabla">
+                  <table class="tabla">
                   <tbody>
                         <tr>
                         <td class=""><a href="https://amzn.to/2HC8U6y"> 
@@ -145,8 +145,8 @@
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
-                              <table id="column1">
-                                    <tbody">
+                              <table class="column1">
+                                    <tbody>
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
@@ -154,13 +154,13 @@
                                           </div>      
                                     </td></tr>
                                     <tr><td>
-                                          <ul class="analysis-list">
-                                                <li>Tiene una potencia de 1000W (watts)</li>
-                                                <li>Velocidad ajustable</li>
-                                                <li>Piezas aptas para el lavavajillas</li>
-                                                <li>Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>Mango suave y antideslizante</li>
-                                                <li>Pie desmontable (acero inoxidable)</li>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 1000W (watts)</li>
+                                                <li>- Velocidad ajustable</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Mango suave y antideslizante</li>
+                                                <li>- Pie desmontable (acero inoxidable)</li>
                                           </ul>
                                     </td></tr>
 
@@ -170,7 +170,7 @@
             
                               
                               <td>
-                              <table id="column2">
+                              <table class="column2">
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
@@ -203,7 +203,7 @@
 
 
 
-      <article class="horizontal-item">
+      <!-- <article class="horizontal-item">
           <div class="product-horizontal">
             <div class="product-horizontal-container">
                   <div class="product-horizontal-img">
@@ -227,7 +227,7 @@
               </div>
           </div>
         
-        </article>
+        </article> -->
 
       <!---------------------------------------- Functionalities --------------------------------------------->
       <section>

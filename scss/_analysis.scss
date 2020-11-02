@@ -46,25 +46,72 @@
 
 // Product card horizontal way
 .horizontal-item {
+  margin: 2rem 2rem;
   border: 1px solid rgb(190, 186, 186);
   height: auto;
 }
-
-.product-horizontal-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(auto-fill, auto);
-}
-
 .product-horizontal-img {
   @include imageHorizontal;
 }
 
 .product-link-horizontal {
   @include buyButton;
+  position: relative;
+  top: 0;
 }
 
 .product-title-horizontal {
   margin-bottom: 1.5rem;
   background: white;
+}
+
+.product-analysis-list {
+  list-style: none;
+  margin: 0px auto;
+}
+
+.column1,
+.column2 {
+  display: inline-block;
+  margin-left: 3rem;
+}
+
+// MEDIA QUERIES
+
+@media screen and (max-width: 768px) {
+  .tabla {
+    margin: 0px auto;
+  }
+
+  .product-horizontal-img {
+    height: 100%;
+    object-fit: cover;
+    margin: 10px auto;
+  }
+
+  .amazon-link {
+    width: 100%;
+  }
+
+  .horizontal-item {
+    width: 90%;
+    margin: 2rem auto;
+  }
+  td {
+    display: block;
+  }
+  tr {
+    width: 100%;
+    margin: 0px auto;
+  }
+
+  .product-link-horizontal {
+    width: 100%;
+  }
+
+  .column1,
+  .column2 {
+    position: relative;
+    margin: 10px auto;
+  }
 }
