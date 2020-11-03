@@ -205,12 +205,13 @@
                   </div>
                   <div><p class="analysis-parrafo">La batidora Moulinex Quickchef está equipada con tecnología <a href="https://www.moulinex.es/batidoras_tecnologia_powelix" class="analysis-link" target="_blank" rel="nofollow">POWELIX</a>  y sus cuchillas te proporcionan texturas cremosas, suaves y sin grumos. Tiene la capacidad de triturar frutos secos, picar hielo, picar carne cruda en pequeñas cantidades; asimismo, puedes cocinar papillas, cremas, salsas, batidos, zumos y mucho más.</p>
                   </div>
+                  <div class=""><p class="analysis-parrafo">En éste video podrás verla en acción:</p></div>
             </article>
 
             <article>
                   <div class="analysis-video">
 
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/yjuREtPQytM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="660" height="415" src="https://www.youtube.com/embed/yjuREtPQytM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
             </article>
       </section>
@@ -223,6 +224,8 @@
                       Ofertas de modelos de batidoras Moulinex  
                   </h2>
             </div>
+
+            <!---------------------- Product 1 --------------------------->
 
             <article class="horizontal-item">
           <div class="product-horizontal">
@@ -260,6 +263,192 @@
                         </td>
             
                               
+                              <td>
+                              <table class="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/321MgLY" class="product-link-horizontal">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+
+      <!---------------------- Product 2 --------------------------->
+
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+                  <table class="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/321MgLY"> 
+                              <img
+                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              alt=""
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table class="column1">
+                                    <tbody>
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/321MgLY"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 1000W (watts)</li>
+                                                <li>- Velocidad ajustable</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Mango suave y antideslizante</li>
+                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
+                              
+                              <td>
+                              <table class="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/321MgLY" class="product-link-horizontal">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+      <!---------------------- Product 3 --------------------------->
+
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+                  <table class="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/321MgLY"> 
+                              <img
+                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              alt=""
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table class="column1">
+                                    <tbody>
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/321MgLY"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 1000W (watts)</li>
+                                                <li>- Velocidad ajustable</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Mango suave y antideslizante</li>
+                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
+                              
+                              <td>
+                              <table class="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/321MgLY" class="product-link-horizontal">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+
+      <!-------------------- Product 4 ----------------------------------->
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+                  <table class="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/321MgLY"> 
+                              <img
+                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              alt=""
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table class="column1">
+                                    <tbody>
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/321MgLY"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 1000W (watts)</li>
+                                                <li>- Velocidad ajustable</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Mango suave y antideslizante</li>
+                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
                               <td>
                               <table class="column2">
                                     <tbody>
@@ -326,7 +515,82 @@
                   </div>
             </article>
       </section>
+
+      <!---------------------------------------- Best Offer --------------------------------------------->
+      <section>
+      <article>
+      <h2>Mejor oferta de batidora de mano Moulinez QuickChef</h2>
+      
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+                  <table class="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                              <img
+                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-de-mano-moulinex-quickchef-1000W-sola.jpg"
+                              alt=""
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table class="column1">
+                                    <tbody>
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 1000W (watts)</li>
+                                                <li>- Velocidad ajustable</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
+                                                <li>- Mango suave y antideslizante</li>
+                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
+                              
+                              <td>
+                              <table class="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+      
+      </section>
             
             </main>
+
+<!---------------------------------------- FOOTER ----------------------------------------->
+<?php include '../includes/footer.php'; ?>
+    
+    <!---------------------------------------- SCRIPTS ----------------------------------------->
+    <?php include "../includes/scripts.php"; ?>
+
       </body>
 </html>
