@@ -16,7 +16,7 @@
         </article>
         <article class="an-item" id="card-item">
         <div class="an-wrapper">
-        <a href="#"><img
+        <a href="../template_tsa/homgeek/batidora-portatil-homgeek.php"><img
             src="../template_tsa/img/batidona-de-vaso-portatil-homgeek.jpg"
             alt=""
             class="card-img"
@@ -29,7 +29,7 @@
         <article class="an-item" >
           <a href="#"> <img
             src="../template_tsa/img/batidora-de-vaso-homegeek-2000.jpg"
-            alt=""
+            alt="imagen de batidora de vaso portatil homegeek"
             class="card-img"
           />
           <h3 class="card-title">Batidora de vaso Homgeek 200W: Calidad profesional al mejor precio</h3>

@@ -346,7 +346,10 @@ footer {
 
 .analysis-title {
   text-align: center;
-  margin: 2.5rem 0px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  margin: 2rem 0px;
 }
 
 .analysis-img {
@@ -363,7 +366,7 @@ footer {
 
 .analysis-img img {
   margin: 1.5rem auto;
-  width: 50%;
+  width: 40%;
   height: auto;
 }
 
@@ -486,7 +489,7 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin: 1rem auto;
+  margin: 2rem auto;
 }
 
 @media screen and (max-width: 768px) {
