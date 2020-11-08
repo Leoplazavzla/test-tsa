@@ -27,12 +27,12 @@
         </article>
         <div class="an-wrapper">
         <article class="an-item" >
-          <a href="#"> <img
+          <a href="../template_tsa/homgeek/batidora-de-vaso-homgeek-2000W.php"> <img
             src="../template_tsa/img/batidora-de-vaso-homegeek-2000.jpg"
             alt="imagen de batidora de vaso portatil homegeek"
             class="card-img"
           />
-          <h3 class="card-title">Batidora de vaso Homgeek 200W: Calidad profesional al mejor precio</h3>
+          <h3 class="card-title">Batidora de vaso Homgeek 2000W: La mejor batidora del 2020</h3>
           </a>
 </div>
         </article>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/template_tsa/scss/styles.css" />
-    <title>Batidora de mano Moulinex QuickChef: Gran relación calidad precio </title>
+    <title>Batidora de vaso Homgeek 200W </title>
 </head>
       <body>
             <!---------------------------------------- HEADER --------------------------------------------->
@@ -12,26 +12,36 @@
 
             <main class="analysis-main">
 
-            <h1 class="analysis-title">Batidora de mano profesional Moulinex Quickchef 1000W</h1>
+            <h1 class="analysis-title">Batidora de vaso Homgeek 2000W: Una de las mejores batidoras del 2020</h1>
 
             <!---------------------------------------- Image --------------------------------------------->
             <div class="highlighted-img">
             <div class="analysis-img">
-            <img src="../img/reviews/moulinex-quickchef/batidora-de-mano-moulinex-quickchef-1000W.jpg" alt="imagen del set de productos de batidora moulinex quickchef">
+            <img src="../img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-2000W.jpg" alt="foto de batidora portatil homgeek 350w">
             </div>
             </div>
       <!---------------------------------------- First text --------------------------------------------->
       <section class="analysis-text">
             <article>
                   <div>
-                  <p class="analysis-parrafo">Te presentamos la batodira de mano QuickChef de la marca Moulinex. Disfrutarás de una potencia óptima "sin hacer ningun esfuerzo". Este accesorio se posiciona entre unos de los artículos con mejores términos de calidad y precio. <br>
-                  Inspirada en su lema: "gran potencia, mínimo esfuerzo", esta batidora de mano multiuso te facilita usos, ventajas y comodidades para preparar multiples platos al instante. 
+                  <p class="analysis-parrafo">Moulinex sigue demostrando que es una empresa innovadora que produce batidoras de calidad. En esta ocasión nos traen la batidora de vaso Jongeek de 200W. Esta es una de las batidoras de más alta calidad que te ofrece entre sus principales funciones, mezclar, cortar, picar hielo o hacer mantequilla de frutos secos en minutos.  
+                  </p>
+                  <p class="analysis-parrafo">Con sus ocho velocidades ajustables y cuatro programas, crearás todos los platos de una comida casera. Es muy importante destacar que esta licuadora de 2000W tiene una excelente capacidad de corte, proporcionando suficiente fuerza y textura.
                   </p>
                   </div>
+
+                              <!---------------------------------------- Advertising Banners --------------------------------------------->
+
+      <section>
+            <div class="analysis-banner">
+            <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_video&banner=0RW1X5CZ1G2V2RDE87R2&f=ifr&linkID=8099b04286ec8dadcd0353be9c9ebb59&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+            </div>
+      </section>
+      
                   <div>
                   <h2 class="analysis-subtitle">¿Quieres conocerla?</h2>
                   </div>
-                  <div class="analysis-text">En este espacio te brindo el conocimiento que necesitas hablando de sus características, ventajas, ofertas y cómo usarla.</div>
+                  <div class="analysis-parrafo"><p>En este pequeño análisis te invitamos a conocer más información sobre esta batidora que es una de las mejores de este 2020 según compradores actuales.</p> </div>
             </article>
       
       </section>
@@ -42,10 +52,10 @@
                         <div class="gallery-img-item">
                               <div class="analysis-item-container">
 
-                              <a href="https://amzn.to/35B2cG7">
+                              <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank">
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/accesorios-batidora-de-mano-moulinex-quickchef.jpg"
-                              alt="foto de accesorios de batidora moulinex quickchef barata"
+                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-barata.jpg"
+                              alt="foto de accesorios de batidora profesional homgeek barata"
                               class="analysis-gallery-img"
                               /></a>
                         </div>
@@ -55,10 +65,10 @@
                         <div class="gallery-img-item">
                               <div class="analysis-item-container">
 
-                              <a href="https://amzn.to/35B2cG7"> 
+                              <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/comprar-batidora-moulinex-quickchef-1000w.jpg"
-                              alt="foto presentacion de batidora moulinex en rebaja"
+                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-en oferta.jpg"
+                              alt="foto de las cuchillas de la batidora homgeek profesional"
                               class="analysis-gallery-img"
                               /></a>
                         </div>
@@ -68,10 +78,10 @@
                         <div class="gallery-img-item">
                               <div class="analysis-item-container">
 
-                              <a href="https://amzn.to/35B2cG7"> 
+                              <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-barata.jpg"
-                              alt="foto de batidora moulinex quickchef barata"
+                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-profesional-homgeek-funciones.jpg"
+                              alt="foto de la pantalla led de la batidora homgeek profesional 2000w"
                               class="analysis-gallery-img"
                               /></a>
                         </div>
@@ -81,10 +91,10 @@
                         <div class="gallery-img-item">
                               <div class="analysis-item-container">
 
-                              <a href="https://amzn.to/35B2cG7"> 
+                              <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/agarre-batidora-moulinex-quickchef-1000w.jpg"
-                              alt="foto-del-agarre-de-la-batidora-moulinex-quickchef-1000w"
+                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-vaso-profesional-homgeek.jpg"
+                              alt="foto mostrando las dimensiones del vaso de la batidora homgeek profesional"
                               class="analysis-gallery-img"
                               /></a>
                         </div>
@@ -94,10 +104,10 @@
                         <div class="gallery-img-item">
                               <div class="analysis-item-container">
 
-                              <a href="https://amzn.to/35B2cG7"> 
+                              <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-de-vaso-moulinex-quickchef-en-oferta.jpg"
-                              alt="foto del vaso de la batidora moulinex quickchef 1000w"
+                              src="/template_tsa/img/reviews/homgeek/comprar-batidora-de-vaso-portatil-homgeek-barata.jpg"
+                              alt="foto del uso portatil de la batidora homgeek 350w"
                               class="analysis-gallery-img"
                               /></a>
                         </div>
@@ -113,18 +123,17 @@
                   <div>
                         <h2 class="analysis-subtitle">Características</h2>
                         <div>
-                        <p class="analysis-parrafo">Tiene una gran comodidad de uso y funciones innovadoras por lo que es uno de los accesorios indicados para renovar el espacio de tu cocina. En la siguiente lista te comparto las propiedades mas destacadas de esta batidora:</p>
+                        <p class="analysis-parrafo">La batidora de vaso profesional Homgeek posee un recipiente de gran tamaño, una potencia elevada y distintos modos de funcionamiento. El mezclador está hecho del material tritán sin BPA.
+
+                        Tambien cuenta con:</p>
                         </div>
                         <ul class="analysis-list">
-                              <li>Tiene una potencia de 1000W (watts)</li>
-                              <li>Velocidad ajustable</li>
-                              <li>Funciones turbo y pulse</li>
-                              <li>Picadora de 500ml</li>
-                              <li>Piezas aptas para el lavavajillas</li>
-                              <li>Incluye varilla batidora y accesorio para salsas</li>
-                              <li>Mango suave y antideslizante</li>
-                              <li>Pie desmontable (acero inoxidable)</li>
-                              <li>Accesorio picador y emulsionador</li>
+                              <li>2000 Watts de potencia</li>
+                              <li>Diseño perfecto para una fácil limpieza</li>
+                              <li>Fácil de usar</li>
+                              <li>Jarra Tritán de 2 litros</li>
+                              <li>5kg de peso</li>
+                              <li>Pantalla led</li>
                         </ul>
                   </div>
             </article>
@@ -138,10 +147,10 @@
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                        <td class=""><a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
-                              alt="imagen de moulinex quickchef barata en oferta"
+                              src="/template_tsa/img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
+                              alt="imagen de la batidora profesional homgeek 2000w"
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
@@ -150,17 +159,16 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                                <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso profesional Homgeek - 2000W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>- Mango suave y antideslizante</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Tiene una potencia de 2000W (watts)</li>
+                                                <li>- 8 velocidades ajustables</li>
+                                                <li>- Motor de 33.000 rpm</li>
+                                                <li>- Recipiente tritán de 2 litros</li>
+                                                <li>- Fácil de limpiar y usar por niños</li>
                                           </ul>
                                     </td></tr>
 
@@ -174,12 +182,12 @@
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
-                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" rel="nofollow" target="_blank"> <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
                                                 </div>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/329y1oD" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -203,15 +211,22 @@
                   <div>
                   <h2 class="analysis-subtitle">Funcionalidad</h2>
                   </div>
-                  <div><p class="analysis-parrafo">La batidora Moulinex Quickchef está equipada con tecnología <a href="https://www.moulinex.es/batidoras_tecnologia_powelix" class="analysis-link" target="_blank" rel="nofollow">POWELIX</a>  y sus cuchillas te proporcionan texturas cremosas, suaves y sin grumos. Tiene la capacidad de triturar frutos secos, picar hielo, picar carne cruda en pequeñas cantidades; asimismo, puedes cocinar papillas, cremas, salsas, batidos, zumos y mucho más.</p>
+                  <div><p class="analysis-parrafo">Es una batidora muy versátil que posee un recipiente de gran tamaño, una potencia elevada y distintos modos de funcionamiento. Tales como:</p>
+
+                  <ul>
+                        <li>Función de Smoothie</li>
+                        <li>Función de pulso</li>
+                        <li>Función para triturar hielo</li>
+                        <li>Sistema de cierre de seguridad</li>
+                  </ul>
                   </div>
-                  <div class=""><p class="analysis-parrafo">En éste video podrás verla en acción:</p></div>
+                  <div class=""><p class="analysis-parrafo">En éste video podrás ver algunas de sus características en tiempo real:</p></div>
             </article>
 
             <article>
                   <div class="analysis-video">
 
-                        <iframe width="660" height="415" src="https://www.youtube.com/embed/yjuREtPQytM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/qWmWVqrVjWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
             </article>
       </section>
@@ -220,9 +235,7 @@
 
       <section>
             <div class="analysis-offers-title">
-                  <h2>
-                      Ofertas de modelos de batidoras Moulinex  
-                  </h2>
+                  <h2>Ofertas de modelos de batidoras Homgeek:</h2>
             </div>
 
             <!---------------------- Product 1 --------------------------->
@@ -232,10 +245,10 @@
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/2U1dm1w" rel="nofollow" target="_blank"> 
+                        <td class=""><a href="https://amzn.to/3oO8cnA" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/comprar-moulinex-infiny-force.jpg"
-                              alt="batidora moulinex infiny force en oferta"
+                              src="/template_tsa/img/products/homgeek-batidora-smoothies-plata-200px.jpg"
+                              alt=""
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
@@ -244,17 +257,17 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/2U1dm1w" rel="nofollow" target="_blank"><h3 class="card-title">Batidora Moulinex Infiny Force Ultimate Cocktail</h3></a>
+                                                <a href="https://amzn.to/3oO8cnA" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso para smoothies Homgeek</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Construcción en acero inoxidable</li>
+                                                <li>- Tiene una potencia de 350W (watts)</li>
+                                                <li>- Motor de 25.000 rpm</li>
                                                 <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Cuenta con 25 velocidades turbo</li>
-                                                <li>- Asa ergonómica y mango suave y antideslizante</li>
-                                                <li>- 4 cuchillas antiatascos</li>
+                                                <li>- Incluye dos tazas de 400ml y una de 500ml</li>
+                                                <li>- Sistema de bloqueo</li>
+                                                <li>- Pie antideslizante</li>
                                           </ul>
                                     </td></tr>
 
@@ -268,12 +281,12 @@
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
-                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" rel="nofollow" target="_blank"> <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
                                                 </div>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/2U1dm1w" rel="nofollow" target="_blank" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/3oO8cnA" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -295,9 +308,9 @@
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/321MgLY"> 
+                        <td class=""><a href="https://amzn.to/2TOngU7" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-mano-moulinex-powelix-life-200px.jpg"
+                              src="/template_tsa/img/products/mini-batidora-portatil-homgeek-200px.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -307,17 +320,17 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/321MgLY"><h3 class="card-title">Batidora de mano Moulinex Powelix Life - 1200W</h3></a>
+                                                <a href="https://amzn.to/2TOngU7" rel="nofollow" target="_blank"><h3 class="card-title">Mini batidora de vaso portatil Homgeek 300W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1200W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
+                                                <li>- Tiene una potencia de 300W (watts)</li>
+                                                <li>- Motor de 25.000 rpm</li>
                                                 <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>- Mango ergonómico y esturctura antisalpicaduras</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Incluye una sola botella de 600ml</li>
+                                                <li>- Diseño lujoso y Cable retráctil </li>
+                                                <li>- Pie antideslizante</li>
                                           </ul>
                                     </td></tr>
 
@@ -331,12 +344,12 @@
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
-                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" rel="nofollow" target="_blank"> <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
                                                 </div>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/321MgLY" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/2TOngU7" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -352,15 +365,16 @@
       </article>
       <!---------------------- Product 3 --------------------------->
 
+      <section> 
       <article class="horizontal-item">
           <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/3k8BQR8"> 
+                        <td class=""><a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-power-mix-200px.jpg"
-                              alt="foto de batidora moulinex power mix de 200px"
+                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
+                              alt="imagen de la batidora homgeek 350w con su vaso"
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
@@ -369,17 +383,17 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/3k8BQR8"><h3 class="card-title">Batidora de mano Moulinex Power Mix - 500W</h3></a>
+                                                <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso individual portatil Homgeek - 350W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 500W (watts)</li>
-                                                <li>- Dos set de varillas</li>
-                                                <li>- 5 velocidades y turbo</li>
-                                                <li>- Bol de plástico y giro automático</li>
-                                                <li>- Espátula mezcladora</li>
-                                                <li>- Botón de expulsión de varillas</li>
+                                                <li>- Tiene una potencia de 350W (watts)</li>
+                                                <li>- Tapa antiderrames</li>
+                                                <li>- 2 botellas de viaje de 600 Mililitros</li>
+                                                <li>- Bloqueo de seguridad</li>
+                                                <li>- Fácil de limpiar</li>
+                                                <li>- estructura de metal</li>
                                           </ul>
                                     </td></tr>
 
@@ -393,12 +407,12 @@
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
-                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" rel="nofollow" target="_blank"> <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
                                                 </div>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/3k8BQR8" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/37HSiVM" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -413,22 +427,84 @@
             </div>
       </article>
 
+      <!-------------------- Product 4 ----------------------------------->
+      <article class="horizontal-item">
+          <div class="product-horizontal">
+                  <table class="tabla">
+                  <tbody>
+                        <tr>
+                        <td class=""><a href="https://amzn.to/3889qUQ" rel="nofollow" target="_blank"> 
+                              <img
+                              src="/template_tsa/img/products/batidora-de-vaso-Homgeek-jarra-titan-en-oferta-200px.jpg"
+                              alt="comprar batidora de vaso homgeek jarra titan 2000w"
+                              class="product-horizontal-img"
+                              /></a></td>
+                        <td>
+                              <table class="column1">
+                                    <tbody>
+                                    <tr ><td >
+                                          <div class="product-title-horizontal">
+                                                
+                                                <a href="https://amzn.to/3889qUQ" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso  Homgeek Jarra titán - 2000W</h3></a>
+                                          </div>      
+                                    </td></tr>
+                                    <tr><td>
+                                          <ul class="product-analysis-list">
+                                                <li>- Tiene una potencia de 2000W (watts)</li>
+                                                <li>- 8 velocidades ajustables</li>
+                                                <li>- Velocidad máxima de 30.000 rpm</li>
+                                                <li>- Piezas aptas para el lavavajillas</li>
+                                                <li>- Jarra de plástico de 2 litros sin BPA</li>
+                                                <li>- 8 cuchillas afiladas</li>
+                                          </ul>
+                                    </td></tr>
+
+                                    </tbody>
+                              </table>
+                        </td>
+            
+                              <td>
+                              <table class="column2">
+                                    <tbody>
+                                          <tr><td>
+                                                <div class="product-amazon-prime" rel="nofollow" target="_blank">
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                </div>
+                                          </td></tr>
+                                    <tr><td>
+                                    <div class="amazon-link">
+                                          <a href="https://amzn.to/3889qUQ" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
+                                          </div>
+                                    </td></tr>
+                                    </tbody>
+                              </table>
+                        
+                              </td>
+                  
+                              <td></td>
+                              </tr>
+                        </tbody>
+                  </table>
+            </div>
+      </article>
+
+
+
       </section> 
 
       <!---------------------------------------- Advantages --------------------------------------------->
       <section>
             <article>
             <div>
-            <h2 class="analysis-subtitle">¿Qué ventajas te ofrece la Moulinex QuickChef?</h2>
+            <h2 class="analysis-subtitle">¿Qué ventajas te ofrece la batidora profesional Homgeek?</h2>
             </div>
             <div>
                   <ul class="analysis-list">
-                        <li><strong>Look moderno:</strong> Luce una elegante tonalidad plateada que hará resaltar tu cocina. No pasará desapercibida.</li>
-                        <li><strong>Agradable al tacto:</strong> Cuenta con un brazo antideslizante que te permite cogerla de una manera cómoda y segura. Evitando accidentes o derrames.</li>
-                        <li><strong>Alta precisión:</strong> Con ésta batidora podrás conseguir una mayor precisión en la preparacion de tus recetas favoritas.</li>
-                        <li><strong>Control de medidas:</strong> Su vaso transparente cuenta con un panel medidor en relieve. Algo que ayuda mucho a la hora de controlar las medidas de los ingredientes.</li>
-                        <li><strong>Varilla multiuso:</strong> La varilla emulsionadora te permite batir en segundos las claras de huevo y cremas.</li>
-                        <li><strong>Portabilidad:</strong> Quizás la mejor ventaja de la batidora de mano QuickChef es su alta portabilidad. Podrás almacenarla en cualquier lugar ya que por su tamaño compacto hace que se ajuste a cocinas con limitaciones de espacio.</li>
+                        <li><strong>8 hojas:</strong> Cuenta con 8 hojas de acero inoxidable, de calidad aerináutica endurecidas.</li>
+                        <li><strong>Diseño profesional:</strong> Posee un diseño sólido, práctico, funcional y con acabados excelentes.</li>
+                        <li><strong>Muy potente:</strong> Esta batidora cuenta con un motor de bobina de cobre de 2000W y 33.000 RPM.</li>
+                        <li><strong>Mucha capacidad:</strong> Posee una jarra tritán sin BPA de 2 litros.</li>
+                        <li><strong>Modos de funcionamiento:</strong> Multiples modos de funcionamiento que te permiten realizar múltiples platos.</li>
                   </ul>
             </div>
             </article>
@@ -447,8 +523,9 @@
                   <div>
                   <h2 class="analysis-subtitle">Conclusiones</h2>
                   </div>
-                  <div><p class="analysis-parrafo">Se adapta a tu recetario cotidiano y te permite crear alternativas innovadoras, pues su pack de facilita los elementos para empezar a cocinar de inmediato. Esta es una solucion pensada para ahorrarte tiempo y dinero. <br />
-                  Si necesitas una batidora versátil para uso domestico por debajo de los €50, éste es el producto que estas buscando :-)</p>
+                  <div><p class="analysis-parrafo">Si te encuentras en la búsqueda de una batidora de vaso de gran potencia y durabilidad, ésta es la mejor opción para ti ya que es grande, potente y con multiples funcionalidades. Además, con sus 8 velocidades, pantalla led dónde puedes visualizar tanto la potencia que se está utilizando, como el tiempo de uso.</p>
+                  
+                  <p>Es importante mencionar que puedes adquirirla por menos de €100. Un precio asequible, que se ajusta a todos los presupuestos y que representa la calidad que se esta adquiriendo.</p><br>
                   </div>
             </article>
       </section>
@@ -456,17 +533,17 @@
       <!---------------------------------------- Best Offer --------------------------------------------->
       <section>
       <article>
-      <h2>Mejor oferta de batidora de mano Moulinez QuickChef</h2>
+      <h2>Mejor oferta de batidora profesional Moulinex de 200W</h2>
       
       <article class="horizontal-item">
           <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
-                        <td class=""><a href="https://amzn.to/2HC8U6y"> 
+                        <td class=""><a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/moulinex-quickchef/batidora-moulinex-quickchef-amazon.jpg"
-                              alt=""
+                              src="/template_tsa/img/products/batidora-de-vaso-profesional-homgeek-2000w.jpg"
+                              alt="imagen de la batidora profesional homgeek 2000w"
                               class="product-horizontal-img"
                               /></a></td>
                         <td>
@@ -475,17 +552,16 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                                                <a href="https://amzn.to/329y1oD" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso profesional Homgeek - 2000W</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 1000W (watts)</li>
-                                                <li>- Velocidad ajustable</li>
-                                                <li>- Piezas aptas para el lavavajillas</li>
-                                                <li>- Incluye varilla batidora y accesorio para salsas</li>
-                                                <li>- Mango suave y antideslizante</li>
-                                                <li>- Pie desmontable (acero inoxidable)</li>
+                                                <li>- Tiene una potencia de 2000W (watts)</li>
+                                                <li>- 8 velocidades ajustables</li>
+                                                <li>- Motor de 33.000 rpm</li>
+                                                <li>- Recipiente tritán de 2 litros</li>
+                                                <li>- Fácil de limpiar y usar por niños</li>
                                           </ul>
                                     </td></tr>
 
@@ -499,12 +575,12 @@
                                     <tbody>
                                           <tr><td>
                                                 <div class="product-amazon-prime">
-                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                                                      <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" rel="nofollow" target="_blank"> <img src="../img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
                                                 </div>
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/35B2cG7" class="product-link-horizontal">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/329y1oD" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -518,8 +594,6 @@
                   </table>
             </div>
       </article>
-      
-      </section>
             
             </main>
 
