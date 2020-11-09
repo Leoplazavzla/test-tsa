@@ -7,11 +7,8 @@
 
     <!-- Parrafo tipos de batidoras -->
     <div>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat neque
-        ullam quo. Eaque ex, obcaecati amet, in aliquam molestias, velit
-        reiciendis perspiciatis nostrum quaerat est. 
-      </p>
+      <p>Realmente, las batidoras son uno de los electrodomésticos más versátiles en nuestra cocina. Te permiten preparar con precisión, texturas en muy poco tiempo.</p>
+      <p>te ayudaremos a descubir cómo puede ayudarte una batidora (ya sea de mano, amasadora o de vaso), para mejorar tus postres </p>
     </div>
     
     <!-- Tipos de batidoras -->

@@ -601,7 +601,7 @@
 <?php include '../includes/footer.php'; ?>
     
     <!---------------------------------------- SCRIPTS ----------------------------------------->
-    <?php include "../includes/scripts.php"; ?>
+    <?php include "includes/scripts.php"; ?>
 
       </body>
 </html>

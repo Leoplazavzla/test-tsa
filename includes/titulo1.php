@@ -6,17 +6,11 @@
     <div>
 
       <p class="main-text">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat neque
-        ullam quo. Eaque ex, obcaecati amet, in aliquam molestias, velit
-        reiciendis perspiciatis nostrum quaerat est. Illum ipsam id dicta
-        molestias! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Minus dignissimos repudiandae laboriosam reiciendis quod eos quae
-        corporis placeat aliquid ab. Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Placeat neque ullam quo. Eaque ex, obcaecati amet, in
-        aliquam molestias, velit reiciendis perspiciatis nostrum quaerat est.
-        Illum ipsam id dicta molestias! Lorem ipsum dolor sit amet, consectetur
-        adipisicing elit. Minus dignissimos repudiandae laboriosam reiciendis
-        quod eos quae corporis placeat aliquid ab.
+        Una batidora es un electrodoméstico que usamos para preparar distintas recetas, está diseñada para cumplir diferentes funciones, tales como batir, mezclar, emulsionar y picar cualquier tipo de alimento. </p>
+
+        <p class="main-text">Años atrás, todas estas tareas requerían de un gran esfuerzo físico, centrado sobre todo, en los brazos. Hoy en día todas estas funciones son sustituidas por diferentes modelos de batidoras avanzadas que te mostramos en esta guía, para que al momento de preparar tus recetas de postres, comidas o salsas favoritas, tengas el mejor modelo que se adecúe a la tarea y tu presupuesto. </p>
+
+        <p class="main-text">Si eres fanático de preparar recetas acompañado de tu familia, o simplemente de mejorar tus accesorios de cocina a un modelo más actuál, ésta es tu web :-)</p>
       </p>
     </div>  
 
