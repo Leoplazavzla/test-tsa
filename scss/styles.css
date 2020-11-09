@@ -427,10 +427,119 @@ a {
   text-decoration: none;
 }
 
-footer {
-  background: grey;
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  padding: 50px;
+  color: #fff;
+  background: #364a62;
 }
 
+.footer img {
+  width: 50%;
+}
+
+.footer > * {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 100%;
+          flex: 1 100%;
+}
+
+.footer-left {
+  margin-right: 1.25em;
+  margin-bottom: 2em;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer li {
+  line-height: 2em;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+}
+
+.footer-right > * {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 50%;
+          flex: 1 50%;
+  margin-right: 1.25em;
+}
+
+.box a {
+  color: #999;
+}
+
+.footer-bottom {
+  text-align: center;
+  color: #999;
+  padding-top: 50px;
+}
+
+.footer-left p {
+  padding-right: 20%;
+  color: #999;
+}
+
+.socials a {
+  background: #364a62;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px 12px;
+}
+
+.socials a img {
+  font-size: 28px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-right > * {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .footer-left {
+    -webkit-box-flex: 1;
+        -ms-flex: 1 0px;
+            flex: 1 0px;
+  }
+  .footer-right {
+    -webkit-box-flex: 2;
+        -ms-flex: 2 0px;
+            flex: 2 0px;
+  }
+}
+
+#mc_embed_signup {
+  background: #364a62;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
+
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 .analysis-title {
   text-align: center;
   -ms-flex-item-align: center;
