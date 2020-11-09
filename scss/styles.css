@@ -17,7 +17,7 @@ h1 {
   margin-bottom: 1rem;
 }
 
-h2 {
+.subtitle {
   margin-bottom: 2rem;
 }
 
@@ -435,7 +435,7 @@ a {
   -webkit-box-direction: normal;
       -ms-flex-flow: row wrap;
           flex-flow: row wrap;
-  padding: 50px;
+  padding: 35px 35px 10px 35px;
   color: #fff;
   background: #364a62;
 }
@@ -452,7 +452,7 @@ a {
 
 .footer-left {
   margin-right: 1.25em;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .footer ul {
@@ -461,7 +461,7 @@ a {
 }
 
 .footer li {
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 .footer a {
@@ -492,7 +492,7 @@ a {
 .footer-bottom {
   text-align: center;
   color: #999;
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 .footer-left p {
@@ -512,6 +512,11 @@ a {
 
 .socials a img {
   font-size: 28px;
+}
+
+.form-title {
+  margin-bottom: 7px;
+  font-size: 1.5rem;
 }
 
 @media screen and (min-width: 768px) {

@@ -1,7 +1,7 @@
 .footer {
   display: flex;
   flex-flow: row wrap;
-  padding: 50px;
+  padding: 35px 35px 10px 35px;
   color: #fff;
 
   background: $footer;
@@ -17,7 +17,7 @@
 
 .footer-left {
   margin-right: 1.25em;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .footer ul {
@@ -26,7 +26,7 @@
 }
 
 .footer li {
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 .footer a {
@@ -50,7 +50,7 @@
 .footer-bottom {
   text-align: center;
   color: #999;
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 .footer-left p {
@@ -70,6 +70,11 @@
 
 .socials a img {
   font-size: 28px;
+}
+
+.form-title {
+  margin-bottom: 7px;
+  font-size: 1.5rem;
 }
 
 @media screen and (min-width: 768px) {

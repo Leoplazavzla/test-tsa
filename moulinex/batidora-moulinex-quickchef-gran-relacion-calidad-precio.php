@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/template_tsa/scss/styles.css" />
+    <link rel="stylesheet" href="/template_tsa/scss/styles.css"/>
     <title>Batidora de mano Moulinex QuickChef: Gran relación calidad precio </title>
 </head>
       <body>
@@ -524,10 +524,10 @@
             </main>
 
 <!---------------------------------------- FOOTER ----------------------------------------->
-<?php include '../includes/footer.php'; ?>
+      <?php include '../template_tsa/includes/footer.php'; ?>
     
     <!---------------------------------------- SCRIPTS ----------------------------------------->
-    <?php include "../includes/scripts.php"; ?>
+    <?php include "../template_tsa/includes/scripts.php"; ?>
 
       </body>
 </html>

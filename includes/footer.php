@@ -10,7 +10,7 @@
       </div>
       <ul class="footer-right">
             <li>
-                  <h2>Enlaces útiles</h2>
+                  <h2 class="form-title">Enlaces útiles</h2>
 
                   <ul class="box">
                   <li><a href="#">Inicio</a></li>
@@ -18,7 +18,7 @@
                   </ul>
             </li> 
             <li>
-                  <h2>¡Suscribite a nuestro Newsletter!</h2>
+                  <h2 class="form-title">¡Suscribete a nuestro Newsletter!</h2>
                   <div class="signup">
                   <!-- Begin Mailchimp Signup Form -->
                         
@@ -27,12 +27,12 @@
                               <form action="https://electricistaenbuenosaires.us2.list-manage.com/subscribe/post?u=2f2ad3ccec774c4cefe68f265&amp;id=fceace0a32" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                     <div id="mc_embed_signup_scroll">
                                           <div class="mc-field-group">
-                                          <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+                                          <label for="mce-EMAIL">Email <span class="asterisk">*</span>
                                     </label>
                                           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
                                     </div>
                                     <div class="mc-field-group">
-                                          <label for="mce-FNAME">First Name </label>
+                                          <label for="mce-FNAME">Nombre</label>
                                           <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
                                     </div>
                                           <div id="mce-responses" class="clear">
