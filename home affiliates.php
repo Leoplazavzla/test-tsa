@@ -32,6 +32,8 @@
     <!---------------------------------------- SCRIPTS ----------------------------------------->
     <?php include "includes/scripts.php"; ?>
 
+    <script src="../template_tsa/js/app.js"></script>
+
 
   </body>
 </html>
