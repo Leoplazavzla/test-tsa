@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/template_tsa/scss/styles.css"/>
-    <title>Batidora de mano Moulinex QuickChef: Gran relación calidad precio </title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="../scss/styles.css"/>
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+      <title>Batidora de mano Moulinex QuickChef: Gran relación calidad precio </title>
 </head>
       <body>
             <!---------------------------------------- HEADER --------------------------------------------->
@@ -104,7 +105,7 @@
                   </article>
                   
             </div>
-       </section>
+      </section>
 
 
       <!---------------------------------------- Charasteristics --------------------------------------------->
@@ -134,7 +135,7 @@
       <!---------------------------------------- Product Offer --------------------------------------------->
 
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -221,14 +222,14 @@
       <section>
             <div class="analysis-offers-title">
                   <h2>
-                      Ofertas de modelos de batidoras Moulinex  
+                  Ofertas de modelos de batidoras Moulinex  
                   </h2>
             </div>
 
             <!---------------------- Product 1 --------------------------->
 
             <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -291,7 +292,7 @@
       <!---------------------- Product 2 --------------------------->
 
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -353,7 +354,7 @@
       <!---------------------- Product 3 --------------------------->
 
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -459,7 +460,7 @@
       <h2>Mejor oferta de batidora de mano Moulinez QuickChef</h2>
       
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -523,11 +524,12 @@
             
             </main>
 
-<!---------------------------------------- FOOTER ----------------------------------------->
-      <?php include '../template_tsa/includes/footer.php'; ?>
-    
-    <!---------------------------------------- SCRIPTS ----------------------------------------->
-    <?php include "../template_tsa/includes/scripts.php"; ?>
+            <!---------------------------------------- FOOTER ----------------------------------------->
+            <?php include '../includes/footer.php'; ?>
+
+            <!---------------------------------------- SCRIPTS ----------------------------------------->
+
+            <script src="../js/app.js"></script>
 
       </body>
 </html>

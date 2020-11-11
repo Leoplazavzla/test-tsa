@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/template_tsa/scss/styles.css" />
-    <title>Batidora de vaso Homgeek 200W </title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="../scss/styles.css"/>
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+      <title>Batidora de vaso Homgeek 200W </title>
 </head>
       <body>
             <!---------------------------------------- HEADER --------------------------------------------->
@@ -429,7 +430,7 @@
 
       <!-------------------- Product 4 ----------------------------------->
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -536,7 +537,7 @@
       <h2>Mejor oferta de batidora profesional Moulinex de 200W</h2>
       
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
@@ -597,11 +598,11 @@
             
             </main>
 
-<!---------------------------------------- FOOTER ----------------------------------------->
-<?php include '../includes/footer.php'; ?>
-    
-    <!---------------------------------------- SCRIPTS ----------------------------------------->
-    <?php include "includes/scripts.php"; ?>
+      <!---------------------------------------- FOOTER ----------------------------------------->
+      <?php include '../includes/footer.php'; ?>
+
+      <!---------------------------------------- SCRIPTS ----------------------------------------->
+      <script src="../js/app.js"></script>
 
       </body>
 </html>

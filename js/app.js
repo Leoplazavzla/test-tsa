@@ -26,3 +26,5 @@ const navSlide = () => {
 
 navSlide();
 
+console.log('Hola');
+
