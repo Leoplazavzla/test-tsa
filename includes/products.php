@@ -1,7 +1,7 @@
 
 <!-- Titulo encima de los productos -->
 <div>
-<div class="main-product-title"> 
+<div class="subtitle"> 
   <h2>Catalogo de batidoras al mejor precio:</h2></div>
 </div>
 

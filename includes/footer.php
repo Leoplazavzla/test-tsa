@@ -3,9 +3,9 @@
             <img src="" alt="">LOGO
             <p><div class="20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, dolor! Voluptate, libero. Hic, vero. Ipsum, corporis facilis vel, provident quaerat mollitia eum sunt voluptatibus numquam et error tempora quasi reiciendis.</div></p>
             <div class="socials">
-            <a href="#"><img src="../img/icons/facebook.png" alt=""></a>
-            <a href="#"><img src="../img/icons/twitter.png" alt=""></a>
-            <a href="#"><img src="../img/icons/linkedin.png" alt=""></a>
+            <a href="#"><img src="../img/icons/facebook.png" alt="" class="icons"></a>
+            <a href="#"><img src="../img/icons/twitter.png" alt="" class="icons"></a>
+            <a href="#"><img src="../img/icons/linkedin.png" alt="" class="icons"></a>
             </div>
       </div>
       <ul class="footer-right">

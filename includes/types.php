@@ -2,7 +2,7 @@
 
   <!-- Titulo tipos de batidoras   -->
   <div>
-      <h2>¿Cual es tu batidora ideal?</h2>
+      <h2 class="subtitle">¿Cual es tu batidora ideal?</h2>
     </div>
 
     <!-- Parrafo tipos de batidoras -->

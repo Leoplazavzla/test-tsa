@@ -13,12 +13,14 @@ li {
   margin-bottom: 0.7rem;
 }
 
-h1 {
+.main-title {
   margin-bottom: 1rem;
+  font-size: 1.5rem;
 }
 
 .subtitle {
   margin-bottom: 2rem;
+  font-size: 1.2rem;
 }
 
 h3 {
@@ -34,6 +36,17 @@ h3 {
   padding: 0px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+}
+
+body {
+  font-family: "Courgette", cursive;
+}
+
+p,
+ul,
+li,
+a {
+  font-family: "Open Sans", sans-serif;
 }
 
 header {

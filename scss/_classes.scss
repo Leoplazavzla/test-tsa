@@ -13,12 +13,14 @@
   margin-bottom: 0.7rem;
 }
 
-h1 {
+.main-title {
   @include margin-bottom(1rem);
+  font-size: 1.5rem;
 }
 
 .subtitle {
   @include margin-bottom(2rem);
+  font-size: 1.2rem;
 }
 
 h3 {
