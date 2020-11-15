@@ -425,6 +425,10 @@ nav a {
   margin-top: 0.7rem;
 }
 
+.brands {
+  display: block;
+}
+
 main {
   width: 90%;
   max-width: 1000px;

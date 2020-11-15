@@ -17,9 +17,9 @@
 
               <a href="https://amzn.to/35B2cG7"> 
               <img
-              src="/template_tsa/img/batidora.jpg"
+              src="https://images-na.ssl-images-amazon.com/images/I/71FzR2kspdL._AC_SL1500_.jpg"
               alt=""
-              class="product-img"
+              class="product-img" height="320px"
               /></a>
               <div class="product-title">
                 <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
