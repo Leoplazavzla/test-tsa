@@ -470,7 +470,7 @@ a {
           flex-flow: row wrap;
   padding: 35px 35px 10px 35px;
   color: #fff;
-  background: #364a62;
+  background: #1076a5;
 }
 
 .footer img {
@@ -519,12 +519,12 @@ a {
 }
 
 .box a {
-  color: #999;
+  color: #fff;
 }
 
 .footer-bottom {
   text-align: center;
-  color: #999;
+  color: #fff;
   padding-top: 10px;
 }
 
@@ -571,13 +571,63 @@ a {
 }
 
 #mc_embed_signup {
-  background: #364a62;
+  background: #1076a5;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
 }
 
+#mc_embed_signup .button {
+  background: #8c0000 !important;
+}
+
+#mc_embed_signup .button:hover {
+  background: #fc0b0b !important;
+}
+
 /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+.cookie-container {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  background: #2f3640;
+  color: #fff;
+  padding: 10px 32px;
+  -webkit-box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.685);
+          box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.685);
+  z-index: 997;
+  -webkit-transition: 200ms;
+  transition: 200ms;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.cookie-container a {
+  color: #fff;
+}
+
+.cookie-container.active {
+  bottom: 0;
+}
+
+.cookie-btn {
+  background: #8c0000;
+  border: 0;
+  color: #fff;
+  padding: 12px 48px;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
 .analysis-title {
   text-align: center;
   -ms-flex-item-align: center;

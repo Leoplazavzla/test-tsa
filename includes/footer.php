@@ -13,8 +13,9 @@
                   <h2 class="form-title">Enlaces útiles</h2>
 
                   <ul class="box">
-                  <li><a href="#">Inicio</a></li>
-                  <li><a href="#">Sobre nosotros</a></li>
+                  <li><a href="https://tubatidoraideal.com/">Inicio</a></li>
+                  <li><a href="https://tubatidoraideal.com/aviso-legal.php">Aviso Legal</a></li>
+                  <li><a href="https://tubatidoraideal.com/politica-de-cookies.php">Política de Cookies</a></li>
                   </ul>
             </li> 
             <li>
@@ -50,6 +51,6 @@
             </li> 
       </ul>
       <div class="footer-bottom">
-            <p>All Rights reserved by &copy;##### 2020</p>
+            <p>All Rights reserved by &copy;Tubatidoraideal.com 2020</p>
       </div>
 </footer>

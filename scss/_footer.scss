@@ -44,12 +44,12 @@
 }
 
 .box a {
-  color: #999;
+  color: #fff;
 }
 
 .footer-bottom {
   text-align: center;
-  color: #999;
+  color: #fff;
   padding-top: 10px;
 }
 
@@ -94,6 +94,14 @@
   background: $footer;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
+}
+
+#mc_embed_signup .button {
+  background: #8c0000 !important;
+}
+
+#mc_embed_signup .button:hover {
+  background: #fc0b0b !important;
 }
 /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
