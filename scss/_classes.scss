@@ -35,3 +35,11 @@ h3 {
 li {
   @extend %list-style;
 }
+
+.img {
+  @include flexCenter;
+}
+
+.type-title {
+  margin-left: 1.1rem;
+}

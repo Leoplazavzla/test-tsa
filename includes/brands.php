@@ -8,7 +8,7 @@
 
     <!-- Parrafo tipos de batidoras -->
     <div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea dolores aliquid, harum perferendis culpa minima similique, minus ut odio quasi repellendus, unde eaque ab? At necessitatibus unde ut quas sint delectus eligendi! Cum quam quos, fuga earum enim non vel maxime inventore sit dicta animi magnam ullam incidunt temporibus aperiam molestias. Nihil architecto eius nostrum quibusdam corporis iure facilis dignissimos provident ullam perferendis error veniam inventore recusandae eaque nobis animi harum molestias sunt sed quas totam, quaerat iste accusantium velit.</p><br>
+        <p>Te mostramos las características y las mejores ofertas de barbacoas de las principales marcas del sector.</p><br>
     </div>
     
     <!-- Tipos de batidoras -->
