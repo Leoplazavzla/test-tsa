@@ -69,6 +69,12 @@ header {
   color: whitesmoke;
 }
 
+.logo a img {
+  max-height: 100%;
+  max-width: 75%;
+  padding: 0.7rem;
+}
+
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -486,6 +492,12 @@ a {
 .footer-left {
   margin-right: 1.25em;
   margin-bottom: 1.5em;
+}
+
+.footer-left img {
+  max-width: 100%;
+  max-height: 100%;
+  padding-bottom: 1.5rem;
 }
 
 .footer ul {

@@ -3,7 +3,7 @@
 <nav class="top-menu" id="top-menu">
 
 <div class="logo">
-    <a href="#" class="home-title"> <h2>Tu Batidora Ideal</h2></a>
+    <a href="#" class="home-title"> <img src="../template_tsa/img/Logo/text-logo.png" alt=""></a>
   </div>
 
   <ul class="nav-link">

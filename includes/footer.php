@@ -1,6 +1,6 @@
 <footer class="footer">
       <div class="footer-left">
-            <img src="" alt="">LOGO
+            <img src="../template_tsa/img/Logo/text-logo-footer.png" alt="">
             <p><div class="20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, dolor! Voluptate, libero. Hic, vero. Ipsum, corporis facilis vel, provident quaerat mollitia eum sunt voluptatibus numquam et error tempora quasi reiciendis.</div></p>
             <!-- <div class="socials">
             <a href="#"><img src="../img/icons/facebook.png" alt="" class="icons"></a>
