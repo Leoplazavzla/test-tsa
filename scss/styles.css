@@ -13,20 +13,38 @@ li {
   margin-bottom: 0.7rem;
 }
 
-h1 {
+.main-title {
   margin-bottom: 1rem;
+  font-size: 1.5rem;
 }
 
-h2 {
+.subtitle {
   margin-bottom: 2rem;
+  font-size: 1.2rem;
 }
 
 h3 {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .analysis-parrafo {
   margin-bottom: 1.5rem;
+}
+
+.img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.type-title {
+  margin-left: 1.1rem;
 }
 
 * {
@@ -36,8 +54,25 @@ h3 {
           box-sizing: border-box;
 }
 
+body {
+  font-family: "Open Sans";
+}
+
+p,
+ul,
+li,
+a {
+  font-family: "Open Sans", sans-serif;
+}
+
 header {
   color: whitesmoke;
+}
+
+.logo a img {
+  max-height: 100%;
+  max-width: 75%;
+  padding: 0.7rem;
 }
 
 nav {
@@ -50,20 +85,21 @@ nav {
       -ms-flex-align: center;
           align-items: center;
   min-height: 8vh;
-  background: #8c0000;
+  background: #1076a5;
 }
 
 nav .nav-link {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-  width: 35%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 nav .nav-link li {
   list-style: none;
+  margin-right: 20px;
 }
 
 nav .nav-link a {
@@ -77,8 +113,13 @@ nav a {
   color: white;
 }
 
+.home-title h2 {
+  margin-bottom: 0;
+}
+
 .burger {
   display: none;
+  cursor: pointer;
 }
 
 .burger div {
@@ -86,15 +127,96 @@ nav a {
   height: 3px;
   background-color: white;
   margin: 5px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 @media screen and (max-width: 768px) {
   .nav-link {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .body {
+    overflow-x: hidden;
+  }
+  .nav-link {
     position: absolute;
     right: 0px;
-    height: 92vh;
+    height: 100vh;
     top: 8vh;
+    background: #1076a5;
+    z-index: 99;
+    width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+    -webkit-transition: -webkit-transform 0.5s ease-in;
+    transition: -webkit-transform 0.5s ease-in;
+    transition: transform 0.5s ease-in;
+    transition: transform 0.5s ease-in, -webkit-transform 0.5s ease-in;
   }
+  .nav-link li {
+    opacity: 1;
+  }
+  .burger {
+    display: block;
+  }
+}
+
+.nav-active {
+  -webkit-transform: translateX(0%);
+          transform: translateX(0%);
+}
+
+@-webkit-keyframes navLinkFade {
+  from {
+    opacity: 0;
+    -webkit-transform: translateX(50px);
+            transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+@keyframes navLinkFade {
+  from {
+    opacity: 0;
+    -webkit-transform: translateX(50px);
+            transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px);
+  }
+}
+
+.toggle .line1 {
+  -webkit-transform: rotate(-45deg) translate(-5px, 6px);
+          transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.toggle .line2 {
+  opacity: 0;
+}
+
+.toggle .line3 {
+  -webkit-transform: rotate(45deg) translate(-5px, -6px);
+          transform: rotate(45deg) translate(-5px, -6px);
 }
 
 .title {
@@ -171,7 +293,7 @@ nav a {
 }
 
 .an-wrapper .card-title {
-  z-index: 100;
+  z-index: 98;
   position: absolute;
   bottom: 0px;
   padding: 1rem;
@@ -325,6 +447,10 @@ nav a {
   margin-top: 0.7rem;
 }
 
+.brands {
+  display: block;
+}
+
 main {
   width: 90%;
   max-width: 1000px;
@@ -340,8 +466,178 @@ a {
   text-decoration: none;
 }
 
-footer {
-  background: grey;
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  padding: 35px 35px 10px 35px;
+  color: #fff;
+  background: #1076a5;
+}
+
+.footer img {
+  width: 50%;
+}
+
+.footer > * {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 100%;
+          flex: 1 100%;
+}
+
+.footer-left {
+  margin-right: 1.25em;
+  margin-bottom: 1.5em;
+}
+
+.footer-left img {
+  max-width: 100%;
+  max-height: 100%;
+  padding-bottom: 1.5rem;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer li {
+  line-height: 1.5em;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+}
+
+.footer-right > * {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 50%;
+          flex: 1 50%;
+  margin-right: 1.25em;
+}
+
+.box a {
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.footer-left p {
+  padding-right: 20%;
+  color: #999;
+}
+
+.socials a {
+  background: #47596e;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px 12px;
+}
+
+.socials a img {
+  font-size: 28px;
+}
+
+.form-title {
+  margin-bottom: 7px;
+  font-size: 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-right > * {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .footer-left {
+    -webkit-box-flex: 1;
+        -ms-flex: 1 0px;
+            flex: 1 0px;
+  }
+  .footer-right {
+    -webkit-box-flex: 2;
+        -ms-flex: 2 0px;
+            flex: 2 0px;
+  }
+}
+
+#mc_embed_signup {
+  background: #1076a5;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
+
+#mc_embed_signup .button {
+  background: #8c0000 !important;
+}
+
+#mc_embed_signup .button:hover {
+  background: #fc0b0b !important;
+}
+
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+.cookie-container {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  background: #2f3640;
+  color: #fff;
+  padding: 10px 32px;
+  -webkit-box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.685);
+          box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.685);
+  z-index: 997;
+  -webkit-transition: 200ms;
+  transition: 200ms;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.cookie-container a {
+  color: #fff;
+}
+
+.cookie-container.active {
+  bottom: 0;
+}
+
+.cookie-btn {
+  background: #1076a5;
+  border: 0;
+  color: #fff;
+  padding: 12px 48px;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
 }
 
 .analysis-title {
@@ -463,7 +759,7 @@ footer {
 }
 
 .product-title-horizontal {
-  margin: 1rem auto;
+  margin: 0.5rem auto;
   background: white;
 }
 

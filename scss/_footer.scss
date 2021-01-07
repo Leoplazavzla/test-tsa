@@ -1,3 +1,113 @@
-footer {
-  background: grey;
+.footer {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 35px 35px 10px 35px;
+  color: #fff;
+
+  background: $footer;
+
+  img {
+    width: 50%;
+  }
 }
+
+.footer > * {
+  flex: 1 100%;
+}
+
+.footer-left {
+  margin-right: 1.25em;
+  margin-bottom: 1.5em;
+}
+
+.footer-left img {
+  max-width: 100%;
+  max-height: 100%;
+  padding-bottom: 1.5rem;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer li {
+  line-height: 1.5em;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer-right {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.footer-right > * {
+  flex: 1 50%;
+  margin-right: 1.25em;
+}
+
+.box a {
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.footer-left p {
+  padding-right: 20%;
+  color: #999;
+}
+
+.socials a {
+  background: #47596e;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px 12px;
+}
+
+.socials a img {
+  font-size: 28px;
+}
+
+.form-title {
+  margin-bottom: 7px;
+  font-size: 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-right > * {
+    flex: 1;
+  }
+
+  .footer-left {
+    flex: 1 0px;
+  }
+  .footer-right {
+    flex: 2 0px;
+  }
+}
+
+#mc_embed_signup {
+  background: $footer;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
+
+#mc_embed_signup .button {
+  background: #8c0000 !important;
+}
+
+#mc_embed_signup .button:hover {
+  background: #fc0b0b !important;
+}
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */

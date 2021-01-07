@@ -13,16 +13,18 @@
   margin-bottom: 0.7rem;
 }
 
-h1 {
+.main-title {
   @include margin-bottom(1rem);
+  font-size: 1.5rem;
 }
 
-h2 {
+.subtitle {
   @include margin-bottom(2rem);
+  font-size: 1.2rem;
 }
 
 h3 {
-  @include margin-bottom(2rem);
+  @include margin-bottom(1rem);
 }
 
 .analysis-parrafo {
@@ -32,4 +34,12 @@ h3 {
 
 li {
   @extend %list-style;
+}
+
+.img {
+  @include flexCenter;
+}
+
+.type-title {
+  margin-left: 1.1rem;
 }

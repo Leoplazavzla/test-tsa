@@ -3,12 +3,12 @@
 <nav class="top-menu" id="top-menu">
 
 <div class="logo">
-    <a href="#"> <h2>Plantilla TSA Amazon</h2></a>
+    <a href="#"> <h2>Electricistas en Buenos Aires</h2></a>
   </div>
 
   <ul class="nav-link">
         <li><a href="#" class="top-menu-link">Home</a></li>
-        <li><a href="#" class="top-menu-link">About</a></li>
+        <li><a href="#" class="top-menu-link">Blog</a></li>
         <li><a href="#" class="top-menu-link">Services</a></li>
       </ul>
 
@@ -16,6 +16,6 @@
         <div class="line1"></div>
         <div class="line2"></div>
         <div class="line3"></div>
-      </div>
+      </div>  
     </nav>
     </header>

@@ -2,7 +2,7 @@
 
   <!-- Titulo tipos de batidoras   -->
   <div>
-      <h2>¿Cual es tu batidora ideal?</h2>
+      <h2>¿Qué tipo de electricista profesional contratar??</h2>
     </div>
 
     <!-- Parrafo tipos de batidoras -->
@@ -26,7 +26,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/kitchenaid.jpg"
+              src="./img/kitchenaid.jpg"
               alt=""
               class="type-img"
               /></a>
@@ -44,7 +44,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/batidora de vaso1.jpg"
+              src="./img/batidora de vaso1.jpg"
               alt=""
               class="type-img"
               /></a>
@@ -62,7 +62,7 @@
 
             <a href="#"> 
               <img
-              src="/template_tsa/img/batidoras de mano3.jpg"
+              src="./img/batidoras de mano3.jpg"
               alt=""
               class="type-img"
               /></a>

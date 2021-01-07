@@ -2,7 +2,7 @@
 <!-- Titulo encima de los productos -->
 <div>
 <div class="main-product-title"> 
-  <h2>Catalogo de batidoras al mejor precio:</h2></div>
+  <h2>Catalogo de electricistas matriculados en la ciudad de Buenos Aires (CABA):</h2></div>
 </div>
 
 <!-- inicio de la grid de los productos -->
@@ -15,20 +15,23 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/35B2cG7"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/agronomia/hogar/electricistas/electricista-matriculado-en-buenos-aires/NDE2Nw==?user_type=customer" target="_blank"> 
               <img
-              src="/template_tsa/img/batidora.jpg"
+              src="./img/services/electricista-buenos-aires-mario-bm5.jpg"
               alt=""
               class="product-img"
               /></a>
               <div class="product-title">
-                <a href="https://amzn.to/35B2cG7"><h3 class="card-title">Batidora de mano Moulinex QuickChef - 1000W</h3></a>
+                <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/agronomia/hogar/electricistas/electricista-matriculado-en-buenos-aires/NDE2Nw==?user_type=customer" target="_blank"><h3 class="card-title">Electricista matriculado en Buenos Aires</h3></a>
               </div>
               <div class="product-amazon-prime">
-                <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                <p class="service-description"></p>
               </div>
+              <div class="Service-location">
+                  <p>Balvanera</p>
+                </div>
               <div class="amazon-link">
-                <a href="https://amzn.to/35B2cG7" class="product-link">Comprar en Amazon</a>
+                <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/agronomia/hogar/electricistas/electricista-matriculado-en-buenos-aires/NDE2Nw==?user_type=customer" target="_blank" class="product-link">Ver servicio</a>
               </div>
             </div>
           </div>
@@ -41,20 +44,20 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/31Ykwbl"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/balvanera/hogar/electricistas/servicios-de-electricidad-y-mantenimiento-general-caba/MzExOQ==?user_type=customer" target="_blank" > 
                 <img
-                src="/template_tsa/img/batidora-bosh-ergomixx-750w.jpg"
+                src="./img/services/electricista-luis-alberto.jpg"
                 alt=""
                 class="product-img"
                 /></a>
                 <div class="product-title">
-                  <a href="https://amzn.to/31Ykwbl"><h3 class="card-title">Batidora de mano con picador Bosh ErgoMixx - 750W</h3></a>
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/balvanera/hogar/electricistas/servicios-de-electricidad-y-mantenimiento-general-caba/MzExOQ==?user_type=customer" target="_blank" ><h3 class="card-title">Electricista en Buenos Aires - Luis Alberto</h3></a>
                 </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                <div class="Service-location">
+                  <p>Balvanera</p>
                 </div>
                 <div class="amazon-link">
-                  <a href="https://amzn.to/31Ykwbl" class="product-link">Comprar en Amazon</a>
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/balvanera/hogar/electricistas/servicios-de-electricidad-y-mantenimiento-general-caba/MzExOQ==?user_type=customer" target="_blank" class="product-link">Ver Servicio</a>
                 </div>
               </div>
           </div>
@@ -67,20 +70,20 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/3kuTvDl"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/caballito/hogar/electricistas/refacciones-electricista-aire-acondicionado-durlock/MTI3NA==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/ufesa3.jpg"
+                src="./img/services/electricista-en-caballito-matias.jpeg"
                 alt=""
                 class="product-img"
                 /></a>
                 <div class="product-title">
-                  <a href="https://amzn.to/3kuTvDl"><h3 class="card-title">Batidora de mano Ufesa Supreme Red - 600W</h3></a>
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/caballito/hogar/electricistas/refacciones-electricista-aire-acondicionado-durlock/MTI3NA==?user_type=customer"><h3 class="card-title">Matias - Electricista Matriculado en CABA</h3></a>
                 </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
+                <div class="service-location">
+                <p>Caballito</p>
                 </div>
                 <div class="amazon-link">
-                  <a href="https://amzn.to/3kuTvDl" class="product-link">Comprar en Amazon</a>
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/caballito/hogar/electricistas/refacciones-electricista-aire-acondicionado-durlock/MTI3NA==?user_type=customer" class="product-link">Ver Servicio</a>
                 </div>
               </div>
           </div>
@@ -88,30 +91,29 @@
         </article>
 
                 <!-- Fourth product -->
-
         <article class="card-item" id="card-item">
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/2HC8U6y"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/boedo/hogar/electricistas/montador-electricista-titulado-gcba/MTc2OQ==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/batidora-de-vaso-portatil-wmf-kult-x-mix.jpg"
+                src="./img/electricista-matriculado-en-boedo.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/2HC8U6y"><h3 class="card-title">Batidora de vaso portatil WMF Kult X Mix - 300W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/2HC8U6y" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/boedo/hogar/electricistas/montador-electricista-titulado-gcba/MTc2OQ==?user_type=customer"><h3 class="card-title">Bruno - Montador Electricista Titulado en Boedo</h3></a>
               </div>
+              <div class="service-location">
+                <p>Boedo</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/boedo/hogar/electricistas/montador-electricista-titulado-gcba/MTc2OQ==?user_type=customer" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
+    
 
          <!-- 5th Product  -->
 
@@ -119,24 +121,23 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/37HSiVM"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/colegiales/hogar/electricistas/electricista-y-reparador-de-balanzas/MzM5NA==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/batidora-de-vaso-individual-portatil-homegeek.jpg"
+                src="./img/electricista-reparador-en-colegiales.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/37HSiVM"><h3 class="card-title">Batidora de vaso individual portatil Homgeek - 350W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/37HSiVM" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/colegiales/hogar/electricistas/electricista-y-reparador-de-balanzas/MzM5NA==?user_type=customer"><h3 class="card-title">Fernando - Electricista Reparador en Almagro</h3></a>
               </div>
+              <div class="service-location">
+                <p>Almagro</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/colegiales/hogar/electricistas/electricista-y-reparador-de-balanzas/MzM5NA==?user_type=customer" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
 
         <!-- 6th Product  -->
@@ -145,24 +146,23 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/34rkzh9"> 
+              <a href="https://www.bigbluepeople.com.ar/professional-profile-detail/MTgxMw=="> 
                 <img
-                src="/template_tsa/img/batidora-portatil-deik-multifuncion.jpg"
+                src="./img/electricista-matriculado-en-recoleta-gabriel.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/34rkzh9"><h3 class="card-title">Batidora de vaso portatil multifuncion Deik - 500W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/34rkzh9" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/professional-profile-detail/MTgxMw=="><h3 class="card-title">Gabriel - Electricista Instalador y Reparador en Recoleta</h3></a>
               </div>
+              <div class="service-location">
+                <p>Recoleta</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/professional-profile-detail/MTgxMw==" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
 
         <!-- 7th Product  -->
@@ -171,24 +171,23 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/35CkCGk"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/recoleta/hogar/electricistas/servicio-electrico-y-aire-acondicionado/MTEzNg==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/batidora-amasadora-aicok-bajo-ruido.jpg"
+                src="./img/servicio-electrico-y-aire-acondicionado-Carlos.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/35CkCGk"><h3 class="card-title">Batidora amasadora para respostería Aicok  - 1000W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/35CkCGk" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/recoleta/hogar/electricistas/servicio-electrico-y-aire-acondicionado/MTEzNg==?user_type=customer"><h3 class="card-title">Carlos - Servicio de electricidad y aire acondicionado en Flores</h3></a>
               </div>
+              <div class="service-location">
+                <p>Flores</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/recoleta/hogar/electricistas/servicio-electrico-y-aire-acondicionado/MTEzNg==?user_type=customer" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
 
         <!-- 8th Product  -->
@@ -197,24 +196,24 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/3onJc6u"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/barracas/hogar/electricistas/electricidad-total-del-hogar-y-comercio/NTQyOQ==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/batidora-amasadora-Bosh-Ergomixx-para-resposteria.jpg"
+                src="./img/electricista-matriculado-montserrat-manuel.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/3onJc6u"><h3 class="card-title">Batidora amasadora Bosh Ergomixx - 450W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/3onJc6u" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/barracas/hogar/electricistas/electricidad-total-del-hogar-y-comercio/NTQyOQ==?user_type=customer"><h3 class="card-title">Manuel - Electricista matriculado en Montserrat
+                  </h3></a>
               </div>
+              <div class="service-location">
+                <p>Montserrat</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/barracas/hogar/electricistas/electricidad-total-del-hogar-y-comercio/NTQyOQ==?user_type=customer" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
 
         <!-- 8th Product  -->
@@ -223,24 +222,24 @@
           <div class="product">
             <div class="product-container">
 
-              <a href="https://amzn.to/3ksRVlq"> 
+              <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/puerto-madero/hogar/electricistas/tecnico-superior-electricista/MTE4Mg==?user_type=customer"> 
                 <img
-                src="/template_tsa/img/Batidora-amasadora-robot-reposteria-twinzee.jpg"
+                src="./img/tecnico-electricista-matriculado-en-puerto-madero-jorge.jpg"
                 alt=""
                 class="product-img"
-                /></a>
-                <div class="product-title">
-                  <a href="https://amzn.to/3ksRVlq"><h3 class="card-title">Batidora robot amasadora Twinzee  - 1000W</h3></a>
-                </div>
-                <div class="product-amazon-prime">
-                  <a href="http://www.amazon.es/prime?tag=leoplazavzla-21" > <img src="img/icon-amazon-prime.png"  class="amazon-prime" alt=""></a>
-                </div>
-                <div class="amazon-link">
-                  <a href="https://amzn.to/3ksRVlq" class="product-link">Comprar en Amazon</a>
-                </div>
+              /></a>
+              <div class="product-title">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/puerto-madero/hogar/electricistas/tecnico-superior-electricista/MTE4Mg==?user_type=customer"><h3 class="card-title">Jorge - Técnico electricista matriculado en Puerto Madero
+                  </h3></a>
               </div>
+              <div class="service-location">
+                <p>Puerto Madero</p>
+              </div>
+              <div class="amazon-link">
+                  <a href="https://www.bigbluepeople.com.ar/ciudad-autonoma-de-buenos-aires/puerto-madero/hogar/electricistas/tecnico-superior-electricista/MTE4Mg==?user_type=customer" class="product-link">Ver Servicio</a>
+              </div>
+            </div>
           </div>
-        
         </article>
 
 

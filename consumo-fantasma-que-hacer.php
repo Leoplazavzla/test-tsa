@@ -3,156 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/template_tsa/scss/styles.css" />
-    <title>Batidora de vaso portátil Homgeek 350W </title>
+    <link rel="stylesheet" href="./scss/styles.css" />
+    <title>Consumo fantasma -Electricistaenbuenosaires.com.ar </title>
 </head>
       <body>
             <!---------------------------------------- HEADER --------------------------------------------->
-            <?php include ('../includes/header.php'); ?>
+            <?php include ('./includes/header.php'); ?>
 
             <main class="analysis-main">
 
-            <h1 class="analysis-title">Batidora portátil Homgeek: Especial para los smoothies</h1>
+            <h1 class="analysis-title">Consumo fantasma: ¿Cómo ahorrar en la factura de luz?</h1>
 
             <!---------------------------------------- Image --------------------------------------------->
             <div class="highlighted-img">
             <div class="analysis-img">
-            <img src="../img/reviews/homgeek/batidora-de-mano-portatil-homgeek-en-oferta.jpg" alt="foto de batidora portatil homgeek 350w">
+            <img src="./img/consumo-fantasma.jpg" alt="foto de batidora portatil homgeek 350w">
             </div>
             </div>
       <!---------------------------------------- First text --------------------------------------------->
       <section class="analysis-text">
             <article>
                   <div>
-                  <p class="analysis-parrafo">Es una batidora que dispone de altas potencias y variedad de funcionalidades, siendo por lo general conocida por su diseño que realza la imagen de tu cocina. Es un modelo portátil que facilita a sus usuarios la posibilidad de responder de forma eficiente a los estilos de vida de cada uno.  
+                  <p class="analysis-parrafo">En este artículo te contamos qué es el consumo fantasma y como podés disminuir el gasto en energá, sin sacrificar comodidad.  
                   </p>
-                  <p class="analysis-parrafo">Homgeek es un fabricante de batidoras electricas, que facilitan la posibilidad de realizar distintas tareas domésticas y profesionales, como batir, montar, emulsionar y remover ingredientes de una forma práctica, fácil y rápida.
-                  </p>
-                  </div>
 
-                              <!---------------------------------------- Advertising Banners --------------------------------------------->
+                  <p class="analysis-parrafo">La mayoría de los aparatos electrónicos (televisores, lavadoras, equipos de sonido, etc), cuando se encuentran apagados siguen consumiendo energía; a este pequeño consumo se lo conoce como “consumo fantasma” o “consumo invisible”.</p>
 
-      <section>
-            <div class="analysis-banner">
-            <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_video&banner=0RW1X5CZ1G2V2RDE87R2&f=ifr&linkID=8099b04286ec8dadcd0353be9c9ebb59&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-            </div>
-      </section>
-      
-                  <div>
-                  <h2 class="analysis-subtitle">¿Quieres conocerla?</h2>
-                  </div>
-                  <div class="analysis-parrafo"><p>En este pequeño análisis conocerás sus ventajas, características, funcionalidades y lo fácil y cómodo que es usarla al momento de preparar tus smoothies favoritos.</p> </div>
-            </article>
-      
-      </section>
-      <!---------------------------------------- First grid products images (missing) --------------------------------------------->
-      <section class="analysis-grid">
-            <div class="analysis-gallery">
-                  <article>
-                        <div class="gallery-img-item">
-                              <div class="analysis-item-container">
-
-                              <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank">
-                              <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-homgeek.jpg"
-                              alt="foto de accesorios de batidora moulinex quickchef barata"
-                              class="analysis-gallery-img"
-                              /></a>
-                        </div>
-                  </article>
-
-                  <article>
-                        <div class="gallery-img-item">
-                              <div class="analysis-item-container">
-
-                              <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
-                              <img
-                              src="/template_tsa/img/reviews/homgeek/foto-mostrando-el-tamaño-de-batidora-protatil-homgeek.jpg"
-                              alt="foto presentacion de batidora moulinex en rebaja"
-                              class="analysis-gallery-img"
-                              /></a>
-                        </div>
-                  </article>
-
-                  <article>
-                        <div class="gallery-img-item">
-                              <div class="analysis-item-container">
-
-                              <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
-                              <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-de-vaso-portatil-homgeek-barata.jpg"
-                              alt="foto de batidora moulinex quickchef barata"
-                              class="analysis-gallery-img"
-                              /></a>
-                        </div>
-                  </article>
-
-                  <article>
-                        <div class="gallery-img-item">
-                              <div class="analysis-item-container">
-
-                              <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
-                              <img
-                              src="/template_tsa/img/reviews/homgeek/batidora-homgeek-en-oferta.jpg"
-                              alt="foto-mostrando-las-dimensiones-de-batidora-homgeek-portatil"
-                              class="analysis-gallery-img"
-                              /></a>
-                        </div>
-                  </article>
-
-                  <article>
-                        <div class="gallery-img-item">
-                              <div class="analysis-item-container">
-
-                              <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
-                              <img
-                              src="/template_tsa/img/reviews/homgeek/comprar-batidora-de-vaso-portatil-homgeek-barata.jpg"
-                              alt="foto del uso portatil de la batidora homgeek 350w"
-                              class="analysis-gallery-img"
-                              /></a>
-                        </div>
-                  </article>
-                  
-            </div>
-       </section>
-
-
-      <!---------------------------------------- Charasteristics --------------------------------------------->
-      <section class="analysis-text">
-            <article>
-                  <div>
-                        <h2 class="analysis-subtitle">Características</h2>
-                        <div>
-                        <p class="analysis-parrafo">Esta es una batidora de vaso económica y muy práctica que resultará perfecta para las personas que les encanta cumplir con una buena nutrición, ya que la podrán llevar a cualquier lugar, gracias a su vaso portátil. Tambien cuenta con:</p>
-                        </div>
-                        <ul class="analysis-list">
-                              <li>350 Watts de potencia</li>
-                              <li>Tapa antiderrames</li>
-                              <li>Protección contra sobre calentamiento</li>
-                              <li>Fácil de limpiar</li>
-                              <li>2 botellas de viaje de 600 Mililitros</li>
-                              <li>Ideal para hacer smoothies</li>
-                              <li>Bloqueo de seguridad</li>
-                              <li>Diseño versátil de metal</li>
-                              <li>1.25kg de peso</li>
-                        </ul>
-                  </div>
-            </article>
-
-      </section>
+                  <p class="analysis-parrafo">En la actualidad la mayoría de los electrodomésticos poseen un transformador interno que convierten la corriente alterna en continua de bajo voltaje; cuando el aparato se encuentra en funcionamiento demanda mayor energía, por lo tanto generan un mayor consumo, sin embargo cuando se encuentran apagados pero no están desconectados por completo de la red, continúan efectuando un pequeño consumo que rondan aproximadamente los 5 W por hora. Años atrás, cuando los equipos no eran digitales sino analógicos, no existía el problema del consumo fantasma, porque los mismos poseían una llave mecánica que al apagar el artefacto, desconectaban al transformador de la red.</p>
 
       <!---------------------------------------- Product Offer --------------------------------------------->
 
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
                         <td class=""><a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
+                              src="./img/tecnico-electricista-matriculado-en-puerto-madero-jorge.jpg"
                               alt="imagen de la batidora homgeek 350w con su vaso"
                               class="product-horizontal-img"
+                              height="250px"
                               /></a></td>
                         <td>
                               <table class="column1">
@@ -160,17 +51,15 @@
                                     <tr ><td >
                                           <div class="product-title-horizontal">
                                                 
-                                                <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"><h3 class="card-title">Batidora de vaso individual portatil Homgeek - 350W</h3></a>
+                                                <a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"><h3 class="card-title">Jorge - Técnico electricista matriculado <br> en Puerto Madero</h3></a>
                                           </div>      
                                     </td></tr>
                                     <tr><td>
                                           <ul class="product-analysis-list">
-                                                <li>- Tiene una potencia de 350W (watts)</li>
-                                                <li>- Tapa antiderrames</li>
-                                                <li>- 2 botellas de viaje de 600 Mililitros</li>
-                                                <li>- Bloqueo de seguridad</li>
-                                                <li>- Fácil de limpiar</li>
-                                                <li>- estructura de metal</li>
+                                                <li>- Reparaciones simples</li>
+                                                <li>- Electricidad en general</li>
+                                                <li>- Aire Acondicionado</li>
+                                                <li>- Videovigilancia</li>
                                           </ul>
                                     </td></tr>
 
@@ -189,7 +78,7 @@
                                           </td></tr>
                                     <tr><td>
                                     <div class="amazon-link">
-                                          <a href="https://amzn.to/37HSiVM" class="product-link-horizontal" rel="nofollow" target="_blank">Comprar en Amazon</a>
+                                          <a href="https://amzn.to/37HSiVM" class="product-link-horizontal" rel="nofollow" target="_blank">Ver servicio</a>
                                           </div>
                                     </td></tr>
                                     </tbody>
@@ -203,40 +92,41 @@
                   </table>
             </div>
       </article>
+                  <p class="analysis-parrafo">En todos los hogares podemos encontrar gran cantidad de aparatos electrónicos que generan consumo aún estando apagados; identificándolos y tomando cartas en el asunto podremos ahorrar un porcentaje en nuestra factura de luz cada mes.</p>
+
+
+                  <p class="analysis-parrafo">Para identificar que artefactos generan consumo fantasma solo basta tocar los enchufes, cargadores y transformadores: si irradian calor están consumiendo energía eléctrica. Una manera mas profesional y exacta de realizar esta prueba es utilizando un medidor de consumo eléctrico.</p>
+
+                              <!---------------------------------------- Image --------------------------------------------->
+            <div >
+            <div >
+            <img src="./img/articles/consumo-fantasma-argentina.jpg" alt="foto de consumo fantasma">
+            </div>
+            </div>
+
+                  <p class="analysis-parrafo">Si tenés acceso al medidor de luz de su casa, y querés conocer cual es el consumo fantasma que se efectúa por hora en tu hogar, solo debes apagar las luces y desenchufar los electrodomésticos que están contantemente en funcionamiento, como la heladera. Los demás artefactos apagalos pero no los desenchufes; vas a notar que la rueda del medidor seguirá girando, lo cual demuestra que existe consumo. Tomá nota del último dígito del contador, espera una hora, y mirá nuevamente el contador. La diferencia entre esas cifras es el consumo fantasma que hay en tu hogar por hora. Te sorprenderás al ver que entre el 7 y el 11 % del consumo mensual de tu factura de luz, se debe a consumo invisible.</p>
+
+                  <p class="analysis-parrafo">Uno de los artefactos que mas consumen cuando se encuentran fuera de uso son los decodificadores de TV por cable como por ejemplo DIRECTV y el gasto se incrementa si los mismos poseen un disco rígido para realizar grabaciones.</p>
+
+                  <p class="analysis-parrafo">Los aparatos que operan con un mando a distancia, como es el caso de los televisores, al apagarlos quedan con el piloto rojo en ON. Esos circuitos receptores de infrarrojos, que nos indican que el equipo se encuentra apagado pero a la espera para ser encendido por el mando a distancia, generan un consumo que se sitúa entre los 8 y 15 W por hora. A este gasto de energía se lo denomina consumo “Stand By”; en esta categoría también podemos agrupar a los periféricos de los ordenadores, como es el caso de las impresoras y los scanners.</p>
+
+
+                  <div>
+                  <h2 class="analysis-subtitle">¿Cómo disminuir el consumo fantasma?</h2>
+                  </div>
+
+                  <p class="analysis-parrafo">Para disminuir el consumo fantasma y el consumo stand by solo basta realizar unos pequeños cambios de hábito:</p>
+                  <ul>
+                        <li>Recordá desenchufar siempre los cargadores que no utilices, por ejemplo cargadores de celulares, de notebooks, etc.</li>
+                        <li>Si salís de vacaciones desenchufá todos los artefactos.</li>
+                        <li>Es muy práctico agrupar los artefactos electrónicos que trabajan en conjunto y conectarlos a enchufes múltiples con interruptor. Si conectas la televisión, el decodificador, el DVD o blu-ray y la play station juntos, cuando dejas de utilizar la tv, directamente apagas la tecla del enchufe múltiple y todos esos artefactos dejarán de consumir electricidad. Verificá que el conjunto de los aparatos conectados no sobrepasen el límite de consumo soportado por el enchufe múltiple.</li>
+                        <li>Tené en cuenta que deberías hacer lo mismo en cada sector de tu hogar, ya que la mayoría de los artefactos generan consumo aún estando apagados: notebook, equipo de música, televisor, microondas, cargadores, PC de escritorio, monitor, impresora, scanner, DVD, decodificador, teléfono inalámbrico, módem de Internet, despertador digital, instrumentos musicales electrónicos, cargadores de pilas, etc.</li>
+                  </ul>
+                  </div>
+
+                  
+            </article>
       
-
-
-
-      <!---------------------------------------- Functionalities --------------------------------------------->
-      <section>
-            <article>
-                  <div>
-                  <h2 class="analysis-subtitle">¿Cómo usar la batidora Homgeek portátil?</h2>
-                  </div>
-                  <div>
-                        <ul>
-                              <li>Coloque las frutas que desees, lavadas y cortadas</li>
-                              <li>Vierta agua o leche</li>
-                              <li>Mantenga presionado el único botón</li>
-                              <li>Vuelva a colocar la tapa y quitela fácilmente</li><br>
-                        </ul>
-                  </div>
-            </article>
-            <article>
-                  <div>
-                  <h2 class="analysis-subtitle">Funcionalidad</h2>
-                  </div>
-                  <div><p class="analysis-parrafo">Es una batidora muy versátil a la hora de su uso ya que sólo toma cuatro pasos para obtener zumos frescos en tan solo 30 segundos.</p>
-                  </div>
-                  <div class=""><p class="analysis-parrafo">En éste video podrás ver algunos comentarios de compradores:</p></div>
-            </article>
-
-            <article>
-                  <div class="analysis-video">
-
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/G2AM4OhRSmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-            </article>
       </section>
 
       <!---------------------------------------- Offers --------------------------------------------->
@@ -244,20 +134,20 @@
       <section>
             <div class="analysis-offers-title">
                   <h2>
-                      Ofertas de modelos de batidoras Homgeek  
+                  Listado de electricistas matriculados en Buenos Aires
                   </h2>
             </div>
 
             <!---------------------- Product 1 --------------------------->
 
             <article class="horizontal-item">
-          <div class="product-horizontal">
+                  <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
                         <td class=""><a href="https://amzn.to/321MgLY" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              src="../img/products/batidora-de-mano-moulinex-powelix-life.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -314,13 +204,13 @@
       <!---------------------- Product 2 --------------------------->
 
       <article class="horizontal-item">
-          <div class="product-horizontal">
+            <div class="product-horizontal">
                   <table class="tabla">
                   <tbody>
                         <tr>
                         <td class=""><a href="https://amzn.to/321MgLY" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              src="../img/products/batidora-de-mano-moulinex-powelix-life.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -382,7 +272,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/321MgLY" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              src="../img/products/batidora-de-mano-moulinex-powelix-life.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -444,7 +334,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/321MgLY" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/products/batidora-de-mano-moulinex-powelix-life.jpg"
+                              src="../img/products/batidora-de-mano-moulinex-powelix-life.jpg"
                               alt=""
                               class="product-horizontal-img"
                               /></a></td>
@@ -501,6 +391,12 @@
 
       </section> 
 
+      <p class="analysis-parrafo">Si tenés mayor presupuesto para destinar, podes comprar enchufes inteligentes múltiples con los cuales podrás manejar de forma remota (a través de tu celular o de tu voz) tus dispositivos, y hasta programar el horario en el cual deseas que se enciendan o apaguen.</p>
+
+<p class="analysis-parrafo">Esperamos que esta información te haya sido de utilidad y que con estos simples cambios puedas ahorrar un buen porcentaje del dinero destinado a la factura de luz.</p>
+
+
+
       <!---------------------------------------- Advantages --------------------------------------------->
       <section>
             <article>
@@ -519,13 +415,6 @@
             </article>
       </section>
 
-            <!---------------------------------------- Advertising Banners --------------------------------------------->
-
-      <section>
-            <div class="analysis-banner">
-            <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=prime_video&banner=0RW1X5CZ1G2V2RDE87R2&f=ifr&linkID=8099b04286ec8dadcd0353be9c9ebb59&t=leoplazavzla-21&tracking_id=leoplazavzla-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-            </div>
-      </section>
       <!---------------------------------------- Conclusions --------------------------------------------->
       <section>
             <article>
@@ -551,7 +440,7 @@
                         <tr>
                         <td class=""><a href="https://amzn.to/37HSiVM" rel="nofollow" target="_blank"> 
                               <img
-                              src="/template_tsa/img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
+                              src="../img/reviews/homgeek/oferta-de-batidora-de-mano-portatil-homgeek.jpg"
                               alt="imagen de la batidora homgeek 350w con su vaso"
                               class="product-horizontal-img"
                               /></a></td>
@@ -608,10 +497,10 @@
             </main>
 
 <!---------------------------------------- FOOTER ----------------------------------------->
-<?php include '../includes/footer.php'; ?>
+<?php include './includes/footer.php'; ?>
     
     <!---------------------------------------- SCRIPTS ----------------------------------------->
-    <?php include "../includes/scripts.php"; ?>
+    <?php include "./includes/scripts.php"; ?>
 
       </body>
 </html>
